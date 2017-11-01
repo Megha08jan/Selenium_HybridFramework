@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="hybridFramework.uiautomation.customlistener.Listener"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="hybridFramework.uiautomation.registrationpage.TC003">
+        <methods>
+          <include name="init"/>
+          <include name="registrationPage"/>
+        </methods>
+      </class> <!-- hybridFramework.uiautomation.registrationpage.TC003 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

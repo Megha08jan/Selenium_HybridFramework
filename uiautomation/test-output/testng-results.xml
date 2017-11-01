@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26630" started-at="2017-11-01T10:20:51Z" finished-at="2017-11-01T10:21:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26630" started-at="2017-11-01T10:20:51Z" finished-at="2017-11-01T10:21:18Z">
+      <class name="hybridFramework.uiautomation.loginpage.TC001">
+        <test-method status="PASS" signature="init()[pri:0, instance:hybridFramework.uiautomation.loginpage.TC001@6fd02e5]" name="init" is-config="true" duration-ms="11659" started-at="2017-11-01T15:50:51Z" finished-at="2017-11-01T15:51:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="logintosite(java.lang.String, java.lang.String)[pri:0, instance:hybridFramework.uiautomation.loginpage.TC001@6fd02e5]" name="logintosite" duration-ms="7080" started-at="2017-11-01T15:51:05Z" data-provider="Logindetails" finished-at="2017-11-01T15:51:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[megha@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintosite -->
+        <test-method status="PASS" signature="logintosite(java.lang.String, java.lang.String)[pri:0, instance:hybridFramework.uiautomation.loginpage.TC001@6fd02e5]" name="logintosite" duration-ms="5926" started-at="2017-11-01T15:51:12Z" data-provider="Logindetails" finished-at="2017-11-01T15:51:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[megha08jan@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintosite -->
+      </class> <!-- hybridFramework.uiautomation.loginpage.TC001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

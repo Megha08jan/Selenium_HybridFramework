@@ -1,0 +1,1084 @@
+2017-10-28 16:46:08 INFO  Testbase:46 - browser is loadedchrome
+2017-10-28 16:46:13 INFO  Testbase:55 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 16:47:20 INFO  Testbase:46 - browser is loadedchrome
+2017-10-28 16:47:24 INFO  Testbase:55 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 16:54:57 INFO  Testbase:51 - browser is loadedchrome
+2017-10-28 16:55:28 INFO  Testbase:61 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 16:55:49 INFO  Testbase:28 - mm
+2017-10-28 17:08:37 INFO  Testbase:56 - browser is loadedchrome
+2017-10-28 17:08:56 INFO  Testbase:66 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 17:10:58 INFO  Testbase:56 - browser is loadedchrome
+2017-10-28 17:11:07 INFO  Testbase:66 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 17:12:27 INFO  Testbase:56 - browser is loadedchrome
+2017-10-28 17:12:36 INFO  Testbase:66 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 17:14:24 INFO  Testbase:56 - browser is loadedchrome
+2017-10-28 17:14:28 INFO  Testbase:66 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 17:53:00 INFO  Testbase:61 - browser is loadedchrome
+2017-10-28 17:53:34 INFO  Testbase:71 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 17:55:43 INFO  Testbase:61 - browser is loadedchrome
+2017-10-28 17:56:21 INFO  Testbase:71 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 17:56:40 INFO  TC003:28 - in registration page
+2017-10-28 17:58:03 INFO  Testbase:61 - browser is loadedchrome
+2017-10-28 17:58:16 INFO  Testbase:71 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 18:04:04 INFO  Testbase:61 - browser is loadedchrome
+2017-10-28 18:04:39 INFO  Testbase:71 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 18:05:20 INFO  TC003:28 - in registration page
+2017-10-28 18:06:49 INFO  Testbase:61 - browser is loadedchrome
+2017-10-28 18:06:53 INFO  Testbase:71 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 18:07:09 INFO  TC003:28 - in registration page
+2017-10-28 18:09:19 INFO  Testbase:61 - browser is loadedchrome
+2017-10-28 18:09:23 INFO  Testbase:71 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 18:09:30 INFO  TC003:28 - in registration page
+2017-10-28 18:12:45 INFO  Testbase:61 - browser is loadedchrome
+2017-10-28 18:12:49 INFO  Testbase:71 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 18:12:59 INFO  TC003:28 - in registration page
+2017-10-28 18:12:59 INFO  Homepage:20 - in homepage
+2017-10-28 18:15:21 INFO  Testbase:61 - browser is loadedchrome
+2017-10-28 18:15:24 INFO  Testbase:71 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 18:15:34 INFO  TC003:28 - in registration page
+2017-10-28 18:16:27 INFO  Homepage:20 - in homepage
+2017-10-28 18:18:45 INFO  Testbase:61 - browser is loadedchrome
+2017-10-28 18:18:50 INFO  Testbase:71 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 18:19:05 INFO  TC003:28 - in registration page
+2017-10-28 18:19:05 INFO  Homepage:20 - in homepage
+2017-10-28 18:22:43 INFO  Testbase:61 - browser is loadedchrome
+2017-10-28 18:22:46 INFO  Testbase:71 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 18:25:45 INFO  Testbase:61 - browser is loadedchrome
+2017-10-28 18:25:48 INFO  Testbase:71 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 18:27:41 INFO  Testbase:61 - browser is loadedchrome
+2017-10-28 18:27:45 INFO  Testbase:71 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 18:27:55 INFO  Testbase:29 - xpath://*[contains(text(),'Sign in')]
+2017-10-28 18:31:10 INFO  Testbase:61 - browser is loadedchrome
+2017-10-28 18:31:14 INFO  Testbase:71 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 18:31:22 INFO  Testbase:83 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-28 18:35:22 INFO  Testbase:61 - browser is loadedchrome
+2017-10-28 18:35:25 INFO  Testbase:71 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 18:35:31 INFO  Homepage:24 - in homepage
+2017-10-28 18:35:31 INFO  Testbase:83 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-28 18:37:13 INFO  Testbase:61 - browser is loadedchrome
+2017-10-28 18:37:16 INFO  Testbase:71 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 18:37:23 INFO  TC003:28 - in registration page
+2017-10-28 18:37:23 INFO  Homepage:20 - in homepage
+2017-10-28 18:42:06 INFO  Testbase:61 - browser is loadedchrome
+2017-10-28 18:42:19 INFO  Testbase:71 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 18:42:25 INFO  TC003:28 - in registration page
+2017-10-28 18:42:25 INFO  Homepage:25 - in homepage
+2017-10-28 18:46:39 INFO  Testbase:61 - browser is loadedchrome
+2017-10-28 18:46:54 INFO  Testbase:71 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 18:47:03 INFO  TC003:28 - in registration page
+2017-10-28 18:47:03 INFO  Homepage:25 - in homepage
+2017-10-28 18:48:24 INFO  Testbase:61 - browser is loadedchrome
+2017-10-28 18:48:32 INFO  Testbase:71 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 18:48:37 INFO  TC003:28 - in registration page
+2017-10-28 18:48:37 INFO  Homepage:25 - in homepage
+2017-10-28 18:48:37 INFO  Homepage:27 - xpath://*[contains(text(),'Sign in')]
+2017-10-28 18:51:12 INFO  Testbase:61 - browser is loadedchrome
+2017-10-28 18:51:15 INFO  Testbase:71 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 18:51:26 INFO  TC003:28 - in registration page
+2017-10-28 18:51:26 INFO  Homepage:25 - in homepage
+2017-10-28 18:51:26 INFO  Testbase:83 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-28 18:51:29 INFO  Homepage:27 - 
+2017-10-28 18:55:27 INFO  Testbase:61 - browser is loadedchrome
+2017-10-28 18:55:30 INFO  Testbase:71 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 18:55:40 INFO  TC003:28 - in registration page
+2017-10-28 18:55:40 INFO  Homepage:20 - in homepage
+2017-10-28 18:55:40 INFO  Testbase:83 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-28 18:56:54 INFO  Testbase:61 - browser is loadedchrome
+2017-10-28 18:56:57 INFO  Testbase:71 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 18:57:05 INFO  TC003:28 - in registration page
+2017-10-28 18:57:05 INFO  Homepage:20 - in homepage
+2017-10-28 18:57:05 INFO  Testbase:83 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-28 19:00:13 INFO  Testbase:61 - browser is loadedchrome
+2017-10-28 19:00:17 INFO  Testbase:71 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 19:00:23 INFO  TC003:28 - in registration page
+2017-10-28 19:00:23 INFO  Homepage:20 - in homepage
+2017-10-28 19:00:23 INFO  Testbase:83 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-28 19:00:24 INFO  LoginPage:13 - in loginpage
+2017-10-28 19:00:24 INFO  Testbase:83 - for element xpath://*[@value='Create an account'] the locatortype isxpath the locator value is  //*[@value='Create an account']
+2017-10-28 19:02:03 INFO  Testbase:61 - browser is loadedchrome
+2017-10-28 19:02:06 INFO  Testbase:71 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 19:02:13 INFO  TC003:28 - in registration page
+2017-10-28 19:02:13 INFO  Homepage:20 - in homepage
+2017-10-28 19:02:13 INFO  Testbase:83 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-28 19:02:15 INFO  LoginPage:13 - in loginpage
+2017-10-28 19:02:15 INFO  Testbase:83 - for element xpath://*[@value='Create an account'] the locatortype isxpath the locator value is  //*[@value='Create an account']
+2017-10-28 19:49:54 INFO  Testbase:62 - browser is loadedchrome
+2017-10-28 19:49:58 INFO  Testbase:72 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 19:50:10 INFO  TC003:28 - in registration page
+2017-10-28 19:50:10 INFO  Homepage:20 - in homepage
+2017-10-28 19:50:10 INFO  Testbase:84 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-28 19:50:12 INFO  LoginPage:13 - in loginpage
+2017-10-28 19:51:25 INFO  Testbase:62 - browser is loadedchrome
+2017-10-28 19:51:30 INFO  Testbase:72 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 19:51:41 INFO  TC003:28 - in registration page
+2017-10-28 19:51:41 INFO  Homepage:20 - in homepage
+2017-10-28 19:51:41 INFO  Testbase:84 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-28 19:51:44 INFO  LoginPage:13 - in loginpage
+2017-10-28 19:51:44 INFO  Testbase:84 - for element xpath://*[@value='Create an account'] the locatortype isxpath the locator value is  //*[@value='Create an account']
+2017-10-28 19:54:08 INFO  Testbase:62 - browser is loadedchrome
+2017-10-28 19:54:11 INFO  Testbase:72 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 19:54:17 INFO  TC003:28 - in registration page
+2017-10-28 19:54:17 INFO  Homepage:20 - in homepage
+2017-10-28 19:54:17 INFO  Testbase:84 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-28 19:54:19 INFO  Testbase:84 - for element xpath://*[@value='Create an account'] the locatortype isxpath the locator value is  //*[@value='Create an account']
+2017-10-28 19:57:22 INFO  Testbase:62 - browser is loadedchrome
+2017-10-28 19:57:26 INFO  Testbase:72 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 19:57:43 INFO  Testbase:62 - browser is loadedchrome
+2017-10-28 19:57:47 INFO  Testbase:72 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 19:57:53 INFO  TC003:28 - in registration page
+2017-10-28 19:57:53 INFO  Homepage:20 - in homepage
+2017-10-28 19:57:53 INFO  Testbase:84 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-28 19:57:55 INFO  Testbase:84 - for element xpath://*[@id='email_create'] the locatortype isxpath the locator value is  //*[@id='email_create']
+2017-10-28 19:57:56 INFO  Testbase:84 - for element xpath://*[@value='Create an account'] the locatortype isxpath the locator value is  //*[@value='Create an account']
+2017-10-28 20:00:44 INFO  Testbase:63 - browser is loadedchrome
+2017-10-28 20:00:52 INFO  Testbase:73 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 20:00:59 INFO  TC003:28 - in registration page
+2017-10-28 20:00:59 INFO  Homepage:20 - in homepage
+2017-10-28 20:00:59 INFO  Testbase:85 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-28 20:01:01 INFO  Testbase:85 - for element xpath://*[@id='email_create'] the locatortype isxpath the locator value is  //*[@id='email_create']
+2017-10-28 20:01:02 INFO  Testbase:85 - for element xpath://*[@value='Create an account'] the locatortype isxpath the locator value is  //*[@value='Create an account']
+2017-10-28 20:04:44 INFO  Testbase:63 - browser is loadedchrome
+2017-10-28 20:04:53 INFO  Testbase:73 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 20:04:58 INFO  TC003:28 - in registration page
+2017-10-28 20:04:58 INFO  Homepage:20 - in homepage
+2017-10-28 20:04:58 INFO  Testbase:85 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-28 20:05:00 INFO  Testbase:85 - for element xpath://*[@id='email_create'] the locatortype isxpath the locator value is  //*[@id='email_create']
+2017-10-28 20:05:01 INFO  Testbase:85 - for element xpath://*[@name = 'SubmitCreate'] the locatortype isxpath the locator value is  //*[@name = 'SubmitCreate']
+2017-10-28 20:06:25 INFO  Testbase:63 - browser is loadedchrome
+2017-10-28 20:06:31 INFO  Testbase:73 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 20:06:41 INFO  TC003:28 - in registration page
+2017-10-28 20:06:41 INFO  Homepage:20 - in homepage
+2017-10-28 20:06:41 INFO  Testbase:85 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-28 20:06:43 INFO  LoginPage:14 - in loginpage
+2017-10-28 20:06:43 INFO  Testbase:85 - for element xpath://*[@id='email_create'] the locatortype isxpath the locator value is  //*[@id='email_create']
+2017-10-28 20:06:44 INFO  Testbase:85 - for element xpath://*[@name = 'SubmitCreate'] the locatortype isxpath the locator value is  //*[@name = 'SubmitCreate']
+2017-10-28 21:12:41 INFO  Testbase:63 - browser is loadedchrome
+2017-10-28 21:12:47 INFO  Testbase:73 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 21:13:28 INFO  Testbase:63 - browser is loadedchrome
+2017-10-28 21:13:39 INFO  Testbase:73 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-28 21:13:49 INFO  TC003:26 - in registration page
+2017-10-28 21:13:49 INFO  Homepage:20 - in homepage
+2017-10-28 21:13:49 INFO  Testbase:85 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-28 21:13:51 INFO  LoginPage:14 - in loginpage
+2017-10-28 21:13:51 INFO  Testbase:85 - for element xpath://*[@id='email_create'] the locatortype isxpath the locator value is  //*[@id='email_create']
+2017-10-28 21:13:52 INFO  Testbase:85 - for element xpath://*[@name = 'SubmitCreate'] the locatortype isxpath the locator value is  //*[@name = 'SubmitCreate']
+2017-10-29 16:58:44 INFO  Testbase:63 - browser is loadedchrome
+2017-10-29 16:59:16 INFO  Testbase:73 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-29 16:59:28 INFO  TC003:28 - in registration page
+2017-10-29 16:59:28 INFO  Homepage:20 - in homepage
+2017-10-29 16:59:28 INFO  Testbase:85 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 16:59:30 INFO  LoginPage:14 - in loginpage
+2017-10-29 16:59:30 INFO  Testbase:85 - for element xpath://*[@id='email_create'] the locatortype isxpath the locator value is  //*[@id='email_create']
+2017-10-29 16:59:32 INFO  Testbase:85 - for element xpath://*[@name = 'SubmitCreate'] the locatortype isxpath the locator value is  //*[@name = 'SubmitCreate']
+2017-10-29 17:36:13 INFO  Testbase:66 - browser is loadedchrome
+2017-10-29 17:36:27 INFO  Testbase:76 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-29 17:36:39 INFO  TC003:28 - in registration page
+2017-10-29 17:36:39 INFO  Homepage:20 - in homepage
+2017-10-29 17:36:39 INFO  Testbase:88 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 17:36:41 INFO  LoginPage:14 - in loginpage
+2017-10-29 17:36:41 INFO  Testbase:88 - for element xpath://*[@id='email_create'] the locatortype isxpath the locator value is  //*[@id='email_create']
+2017-10-29 17:36:43 INFO  Testbase:88 - for element xpath://*[@name = 'SubmitCreate'] the locatortype isxpath the locator value is  //*[@name = 'SubmitCreate']
+2017-10-29 17:36:43 INFO  Testbase:105 - for element name:id_gender the locatortype isname the locator value is  id_gender
+2017-10-29 17:36:44 INFO  Testbase:88 - for element xpath://*[@name='customer_firstname'] the locatortype isxpath the locator value is  //*[@name='customer_firstname']
+2017-10-29 17:36:45 INFO  Testbase:88 - for element xpath://*[@name='customer_lastname'] the locatortype isxpath the locator value is  //*[@name='customer_lastname']
+2017-10-29 17:36:45 INFO  Testbase:88 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-10-29 17:38:39 INFO  Testbase:66 - browser is loadedchrome
+2017-10-29 17:38:46 INFO  Testbase:76 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-29 17:38:54 INFO  TC003:28 - in registration page
+2017-10-29 17:38:54 INFO  Homepage:20 - in homepage
+2017-10-29 17:38:54 INFO  Testbase:88 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 17:38:56 INFO  LoginPage:14 - in loginpage
+2017-10-29 17:38:56 INFO  Testbase:88 - for element xpath://*[@id='email_create'] the locatortype isxpath the locator value is  //*[@id='email_create']
+2017-10-29 17:38:57 INFO  Testbase:88 - for element xpath://*[@name = 'SubmitCreate'] the locatortype isxpath the locator value is  //*[@name = 'SubmitCreate']
+2017-10-29 17:38:57 INFO  Testbase:105 - for element name:id_gender the locatortype isname the locator value is  id_gender
+2017-10-29 17:38:59 INFO  Testbase:88 - for element xpath://*[@name='customer_firstname'] the locatortype isxpath the locator value is  //*[@name='customer_firstname']
+2017-10-29 17:38:59 INFO  Testbase:88 - for element xpath://*[@name='customer_lastname'] the locatortype isxpath the locator value is  //*[@name='customer_lastname']
+2017-10-29 17:38:59 INFO  Testbase:88 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-10-29 17:39:00 INFO  Testbase:88 - for element name:days the locatortype isname the locator value is  days
+2017-10-29 17:39:00 INFO  Testbase:88 - for element name:months the locatortype isname the locator value is  months
+2017-10-29 17:39:00 INFO  Testbase:88 - for element name:years the locatortype isname the locator value is  years
+2017-10-29 17:46:22 INFO  Testbase:66 - browser is loadedchrome
+2017-10-29 17:46:35 INFO  Testbase:76 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-29 17:46:44 INFO  TC003:28 - in registration page
+2017-10-29 17:46:44 INFO  Homepage:20 - in homepage
+2017-10-29 17:46:44 INFO  Testbase:88 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 17:46:46 INFO  LoginPage:14 - in loginpage
+2017-10-29 17:46:46 INFO  Testbase:88 - for element xpath://*[@id='email_create'] the locatortype isxpath the locator value is  //*[@id='email_create']
+2017-10-29 17:46:47 INFO  Testbase:88 - for element xpath://*[@name = 'SubmitCreate'] the locatortype isxpath the locator value is  //*[@name = 'SubmitCreate']
+2017-10-29 17:46:47 INFO  Testbase:105 - for element name:id_gender the locatortype isname the locator value is  id_gender
+2017-10-29 17:46:49 INFO  Testbase:88 - for element xpath://*[@name='customer_firstname'] the locatortype isxpath the locator value is  //*[@name='customer_firstname']
+2017-10-29 17:46:49 INFO  Testbase:88 - for element xpath://*[@name='customer_lastname'] the locatortype isxpath the locator value is  //*[@name='customer_lastname']
+2017-10-29 17:46:50 INFO  Testbase:88 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-10-29 17:46:50 INFO  Testbase:88 - for element name:days the locatortype isname the locator value is  days
+2017-10-29 17:46:50 INFO  Testbase:88 - for element name:months the locatortype isname the locator value is  months
+2017-10-29 17:46:50 INFO  Testbase:88 - for element name:years the locatortype isname the locator value is  years
+2017-10-29 17:46:51 INFO  Testbase:88 - for element name:firstname the locatortype isname the locator value is  firstname
+2017-10-29 17:46:51 INFO  Testbase:88 - for element name:address1 the locatortype isname the locator value is  address1
+2017-10-29 17:46:51 INFO  Testbase:88 - for element name:city the locatortype isname the locator value is  city
+2017-10-29 17:46:52 INFO  Testbase:88 - for element name:id_state the locatortype isname the locator value is  id_state
+2017-10-29 17:46:52 INFO  Testbase:88 - for element name:postcode the locatortype isname the locator value is  postcode
+2017-10-29 17:46:52 INFO  Testbase:88 - for element id:phone_mobile the locatortype isid the locator value is  phone_mobile
+2017-10-29 17:46:52 INFO  Testbase:88 - for element xpath://*[@value='My address'] the locatortype isxpath the locator value is  //*[@value='My address']
+2017-10-29 17:46:53 INFO  Testbase:88 - for element xpath://*[contains(text(),'Register')] the locatortype isxpath the locator value is  //*[contains(text(),'Register')]
+2017-10-29 18:10:28 INFO  Testbase:66 - browser is loadedchrome
+2017-10-29 18:10:53 INFO  Testbase:76 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-29 18:11:00 INFO  TC003:28 - in registration page
+2017-10-29 18:11:00 INFO  Homepage:20 - in homepage
+2017-10-29 18:11:00 INFO  Testbase:88 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 18:11:02 INFO  LoginPage:14 - in loginpage
+2017-10-29 18:11:02 INFO  Testbase:114 - scrolling down the webpage
+2017-10-29 18:11:02 INFO  Testbase:88 - for element xpath://*[@id='email_create'] the locatortype isxpath the locator value is  //*[@id='email_create']
+2017-10-29 18:11:02 INFO  Testbase:121 - performing random mouse click
+2017-10-29 18:11:03 INFO  Testbase:88 - for element xpath://*[@name = 'SubmitCreate'] the locatortype isxpath the locator value is  //*[@name = 'SubmitCreate']
+2017-10-29 18:11:03 INFO  Testbase:105 - for element name:id_gender the locatortype isname the locator value is  id_gender
+2017-10-29 18:11:05 INFO  Testbase:133 - selection radio based on value2
+2017-10-29 18:11:05 INFO  Testbase:133 - selection radio based on value2
+2017-10-29 18:11:05 INFO  Testbase:88 - for element xpath://*[@name='customer_firstname'] the locatortype isxpath the locator value is  //*[@name='customer_firstname']
+2017-10-29 18:11:05 INFO  Testbase:88 - for element xpath://*[@name='customer_lastname'] the locatortype isxpath the locator value is  //*[@name='customer_lastname']
+2017-10-29 18:11:05 INFO  Testbase:88 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-10-29 18:11:06 INFO  Testbase:88 - for element name:days the locatortype isname the locator value is  days
+2017-10-29 18:11:06 INFO  Testbase:146 - selection dropdown
+2017-10-29 18:11:06 INFO  Testbase:88 - for element name:months the locatortype isname the locator value is  months
+2017-10-29 18:11:06 INFO  Testbase:146 - selection dropdown
+2017-10-29 18:11:06 INFO  Testbase:88 - for element name:years the locatortype isname the locator value is  years
+2017-10-29 18:11:06 INFO  Testbase:146 - selection dropdown
+2017-10-29 18:11:06 INFO  Testbase:88 - for element name:firstname the locatortype isname the locator value is  firstname
+2017-10-29 18:11:07 INFO  Testbase:88 - for element name:firstname the locatortype isname the locator value is  firstname
+2017-10-29 18:11:07 INFO  Testbase:88 - for element name:address1 the locatortype isname the locator value is  address1
+2017-10-29 18:11:07 INFO  Testbase:88 - for element name:city the locatortype isname the locator value is  city
+2017-10-29 18:11:07 INFO  Testbase:88 - for element name:id_state the locatortype isname the locator value is  id_state
+2017-10-29 18:11:07 INFO  Testbase:146 - selection dropdown
+2017-10-29 18:11:08 INFO  Testbase:88 - for element name:postcode the locatortype isname the locator value is  postcode
+2017-10-29 18:11:08 INFO  Testbase:88 - for element id:phone_mobile the locatortype isid the locator value is  phone_mobile
+2017-10-29 18:11:08 INFO  Testbase:88 - for element xpath://*[@value='My address'] the locatortype isxpath the locator value is  //*[@value='My address']
+2017-10-29 18:11:08 INFO  Testbase:88 - for element xpath://*[contains(text(),'Register')] the locatortype isxpath the locator value is  //*[contains(text(),'Register')]
+2017-10-29 18:11:09 INFO  Testbase:88 - for element xpath://*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')] the locatortype isxpath the locator value is  //*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')]
+2017-10-29 18:11:40 INFO  Testbase:163 - correct msg is not diplayed
+2017-10-29 18:42:43 INFO  Testbase:66 - browser is loadedchrome
+2017-10-29 18:43:01 INFO  Testbase:76 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-29 18:43:11 INFO  TC003:28 - in registration page
+2017-10-29 18:43:11 INFO  Homepage:20 - in homepage
+2017-10-29 18:43:11 INFO  Testbase:88 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 18:43:13 INFO  LoginPage:14 - in loginpage
+2017-10-29 18:43:13 INFO  Testbase:114 - scrolling down the webpage
+2017-10-29 18:43:13 INFO  Testbase:88 - for element xpath://*[@id='email_create'] the locatortype isxpath the locator value is  //*[@id='email_create']
+2017-10-29 18:43:13 INFO  Testbase:121 - performing random mouse click
+2017-10-29 18:43:15 INFO  Testbase:88 - for element xpath://*[@name = 'SubmitCreate'] the locatortype isxpath the locator value is  //*[@name = 'SubmitCreate']
+2017-10-29 18:43:15 INFO  Testbase:105 - for element name:id_gender the locatortype isname the locator value is  id_gender
+2017-10-29 18:43:16 INFO  Testbase:133 - selection radio based on value2
+2017-10-29 18:43:16 INFO  Testbase:133 - selection radio based on value2
+2017-10-29 18:43:16 INFO  Testbase:88 - for element xpath://*[@name='customer_firstname'] the locatortype isxpath the locator value is  //*[@name='customer_firstname']
+2017-10-29 18:43:17 INFO  Testbase:88 - for element xpath://*[@name='customer_lastname'] the locatortype isxpath the locator value is  //*[@name='customer_lastname']
+2017-10-29 18:43:17 INFO  Testbase:88 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-10-29 18:43:17 INFO  Testbase:88 - for element name:days the locatortype isname the locator value is  days
+2017-10-29 18:43:17 INFO  Testbase:146 - selection dropdown
+2017-10-29 18:43:17 INFO  Testbase:88 - for element name:months the locatortype isname the locator value is  months
+2017-10-29 18:43:18 INFO  Testbase:146 - selection dropdown
+2017-10-29 18:43:18 INFO  Testbase:88 - for element name:years the locatortype isname the locator value is  years
+2017-10-29 18:43:18 INFO  Testbase:146 - selection dropdown
+2017-10-29 18:43:18 INFO  Testbase:88 - for element name:firstname the locatortype isname the locator value is  firstname
+2017-10-29 18:43:18 INFO  Testbase:88 - for element name:firstname the locatortype isname the locator value is  firstname
+2017-10-29 18:43:18 INFO  Testbase:88 - for element name:address1 the locatortype isname the locator value is  address1
+2017-10-29 18:43:19 INFO  Testbase:88 - for element name:city the locatortype isname the locator value is  city
+2017-10-29 18:43:19 INFO  Testbase:88 - for element name:id_state the locatortype isname the locator value is  id_state
+2017-10-29 18:43:19 INFO  Testbase:146 - selection dropdown
+2017-10-29 18:43:19 INFO  Testbase:88 - for element name:postcode the locatortype isname the locator value is  postcode
+2017-10-29 18:43:19 INFO  Testbase:88 - for element id:phone_mobile the locatortype isid the locator value is  phone_mobile
+2017-10-29 18:43:20 INFO  Testbase:88 - for element xpath://*[@value='My address'] the locatortype isxpath the locator value is  //*[@value='My address']
+2017-10-29 18:43:20 INFO  Testbase:88 - for element xpath://*[contains(text(),'Register')] the locatortype isxpath the locator value is  //*[contains(text(),'Register')]
+2017-10-29 18:43:21 INFO  Testbase:88 - for element xpath://*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')] the locatortype isxpath the locator value is  //*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')]
+2017-10-29 18:43:51 INFO  Testbase:163 - correct msg is not diplayed
+2017-10-29 18:51:35 INFO  Testbase:64 - browser is loadedchrome
+2017-10-29 18:51:40 INFO  Testbase:74 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-29 18:51:46 INFO  TC003:28 - in registration page
+2017-10-29 18:51:46 INFO  Homepage:20 - in homepage
+2017-10-29 18:51:46 INFO  Testbase:86 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 18:51:47 INFO  LoginPage:14 - in loginpage
+2017-10-29 18:51:47 INFO  Testbase:112 - scrolling down the webpage
+2017-10-29 18:51:47 INFO  Testbase:86 - for element xpath://*[@id='email_create'] the locatortype isxpath the locator value is  //*[@id='email_create']
+2017-10-29 18:51:47 INFO  Testbase:119 - performing random mouse click
+2017-10-29 18:51:49 INFO  Testbase:86 - for element xpath://*[@name = 'SubmitCreate'] the locatortype isxpath the locator value is  //*[@name = 'SubmitCreate']
+2017-10-29 18:51:49 INFO  Testbase:103 - for element name:id_gender the locatortype isname the locator value is  id_gender
+2017-10-29 18:51:50 INFO  Testbase:131 - selection radio based on value2
+2017-10-29 18:51:50 INFO  Testbase:131 - selection radio based on value2
+2017-10-29 18:51:50 INFO  Testbase:86 - for element xpath://*[@name='customer_firstname'] the locatortype isxpath the locator value is  //*[@name='customer_firstname']
+2017-10-29 18:51:50 INFO  Testbase:86 - for element xpath://*[@name='customer_lastname'] the locatortype isxpath the locator value is  //*[@name='customer_lastname']
+2017-10-29 18:51:51 INFO  Testbase:86 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-10-29 18:51:51 INFO  Testbase:86 - for element name:days the locatortype isname the locator value is  days
+2017-10-29 18:51:51 INFO  Testbase:144 - selection dropdown
+2017-10-29 18:51:51 INFO  Testbase:86 - for element name:months the locatortype isname the locator value is  months
+2017-10-29 18:51:51 INFO  Testbase:144 - selection dropdown
+2017-10-29 18:51:51 INFO  Testbase:86 - for element name:years the locatortype isname the locator value is  years
+2017-10-29 18:51:52 INFO  Testbase:144 - selection dropdown
+2017-10-29 18:51:52 INFO  Testbase:86 - for element name:firstname the locatortype isname the locator value is  firstname
+2017-10-29 18:51:52 INFO  Testbase:86 - for element name:firstname the locatortype isname the locator value is  firstname
+2017-10-29 18:51:52 INFO  Testbase:86 - for element name:address1 the locatortype isname the locator value is  address1
+2017-10-29 18:51:52 INFO  Testbase:86 - for element name:city the locatortype isname the locator value is  city
+2017-10-29 18:51:53 INFO  Testbase:86 - for element name:id_state the locatortype isname the locator value is  id_state
+2017-10-29 18:51:53 INFO  Testbase:144 - selection dropdown
+2017-10-29 18:51:53 INFO  Testbase:86 - for element name:postcode the locatortype isname the locator value is  postcode
+2017-10-29 18:51:53 INFO  Testbase:86 - for element id:phone_mobile the locatortype isid the locator value is  phone_mobile
+2017-10-29 18:51:53 INFO  Testbase:86 - for element xpath://*[@value='My address'] the locatortype isxpath the locator value is  //*[@value='My address']
+2017-10-29 18:51:53 INFO  Testbase:86 - for element xpath://*[contains(text(),'Register')] the locatortype isxpath the locator value is  //*[contains(text(),'Register')]
+2017-10-29 18:51:55 INFO  Testbase:86 - for element xpath://*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')] the locatortype isxpath the locator value is  //*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')]
+2017-10-29 18:52:25 INFO  Testbase:161 - correct msg is not diplayed
+2017-10-29 18:52:25 INFO  Listener:46 - methodname
+2017-10-29 18:53:51 INFO  Testbase:64 - browser is loadedchrome
+2017-10-29 18:53:58 INFO  Testbase:74 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-29 18:54:07 INFO  TC003:28 - in registration page
+2017-10-29 18:54:07 INFO  Homepage:20 - in homepage
+2017-10-29 18:54:07 INFO  Testbase:86 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 18:54:09 INFO  LoginPage:14 - in loginpage
+2017-10-29 18:54:09 INFO  Testbase:112 - scrolling down the webpage
+2017-10-29 18:54:09 INFO  Testbase:86 - for element xpath://*[@id='email_create'] the locatortype isxpath the locator value is  //*[@id='email_create']
+2017-10-29 18:54:09 INFO  Testbase:119 - performing random mouse click
+2017-10-29 18:54:10 INFO  Testbase:86 - for element xpath://*[@name = 'SubmitCreate'] the locatortype isxpath the locator value is  //*[@name = 'SubmitCreate']
+2017-10-29 18:54:10 INFO  Testbase:103 - for element name:id_gender the locatortype isname the locator value is  id_gender
+2017-10-29 18:54:12 INFO  Testbase:131 - selection radio based on value2
+2017-10-29 18:54:12 INFO  Testbase:131 - selection radio based on value2
+2017-10-29 18:54:12 INFO  Testbase:86 - for element xpath://*[@name='customer_firstname'] the locatortype isxpath the locator value is  //*[@name='customer_firstname']
+2017-10-29 18:54:12 INFO  Testbase:86 - for element xpath://*[@name='customer_lastname'] the locatortype isxpath the locator value is  //*[@name='customer_lastname']
+2017-10-29 18:54:12 INFO  Testbase:86 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-10-29 18:54:13 INFO  Testbase:86 - for element name:days the locatortype isname the locator value is  days
+2017-10-29 18:54:13 INFO  Testbase:144 - selection dropdown
+2017-10-29 18:54:13 INFO  Testbase:86 - for element name:months the locatortype isname the locator value is  months
+2017-10-29 18:54:13 INFO  Testbase:144 - selection dropdown
+2017-10-29 18:54:13 INFO  Testbase:86 - for element name:years the locatortype isname the locator value is  years
+2017-10-29 18:54:13 INFO  Testbase:144 - selection dropdown
+2017-10-29 18:54:14 INFO  Testbase:86 - for element name:firstname the locatortype isname the locator value is  firstname
+2017-10-29 18:54:14 INFO  Testbase:86 - for element name:firstname the locatortype isname the locator value is  firstname
+2017-10-29 18:54:14 INFO  Testbase:86 - for element name:address1 the locatortype isname the locator value is  address1
+2017-10-29 18:54:14 INFO  Testbase:86 - for element name:city the locatortype isname the locator value is  city
+2017-10-29 18:54:14 INFO  Testbase:86 - for element name:id_state the locatortype isname the locator value is  id_state
+2017-10-29 18:54:14 INFO  Testbase:144 - selection dropdown
+2017-10-29 18:54:15 INFO  Testbase:86 - for element name:postcode the locatortype isname the locator value is  postcode
+2017-10-29 18:54:15 INFO  Testbase:86 - for element id:phone_mobile the locatortype isid the locator value is  phone_mobile
+2017-10-29 18:54:15 INFO  Testbase:86 - for element xpath://*[@value='My address'] the locatortype isxpath the locator value is  //*[@value='My address']
+2017-10-29 18:54:15 INFO  Testbase:86 - for element xpath://*[contains(text(),'Register')] the locatortype isxpath the locator value is  //*[contains(text(),'Register')]
+2017-10-29 18:54:17 INFO  Testbase:86 - for element xpath://*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')] the locatortype isxpath the locator value is  //*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')]
+2017-10-29 18:54:47 INFO  Testbase:161 - correct msg is not diplayed
+2017-10-29 18:54:47 INFO  Listener:46 - registrationPage
+2017-10-29 18:56:11 INFO  Testbase:64 - browser is loadedchrome
+2017-10-29 18:56:19 INFO  Testbase:74 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-29 18:56:27 INFO  TC003:28 - in registration page
+2017-10-29 18:56:27 INFO  Homepage:20 - in homepage
+2017-10-29 18:56:27 INFO  Testbase:86 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 18:56:28 INFO  LoginPage:14 - in loginpage
+2017-10-29 18:56:28 INFO  Testbase:112 - scrolling down the webpage
+2017-10-29 18:56:28 INFO  Testbase:86 - for element xpath://*[@id='email_create'] the locatortype isxpath the locator value is  //*[@id='email_create']
+2017-10-29 18:56:29 INFO  Testbase:119 - performing random mouse click
+2017-10-29 18:56:31 INFO  Testbase:86 - for element xpath://*[@name = 'SubmitCreate'] the locatortype isxpath the locator value is  //*[@name = 'SubmitCreate']
+2017-10-29 18:56:31 INFO  Testbase:103 - for element name:id_gender the locatortype isname the locator value is  id_gender
+2017-10-29 18:56:32 INFO  Testbase:131 - selection radio based on value2
+2017-10-29 18:56:32 INFO  Testbase:131 - selection radio based on value2
+2017-10-29 18:56:32 INFO  Testbase:86 - for element xpath://*[@name='customer_firstname'] the locatortype isxpath the locator value is  //*[@name='customer_firstname']
+2017-10-29 18:56:33 INFO  Testbase:86 - for element xpath://*[@name='customer_lastname'] the locatortype isxpath the locator value is  //*[@name='customer_lastname']
+2017-10-29 18:56:33 INFO  Testbase:86 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-10-29 18:56:33 INFO  Testbase:86 - for element name:days the locatortype isname the locator value is  days
+2017-10-29 18:56:33 INFO  Testbase:144 - selection dropdown
+2017-10-29 18:56:34 INFO  Testbase:86 - for element name:months the locatortype isname the locator value is  months
+2017-10-29 18:56:34 INFO  Testbase:144 - selection dropdown
+2017-10-29 18:56:34 INFO  Testbase:86 - for element name:years the locatortype isname the locator value is  years
+2017-10-29 18:56:34 INFO  Testbase:144 - selection dropdown
+2017-10-29 18:56:34 INFO  Testbase:86 - for element name:firstname the locatortype isname the locator value is  firstname
+2017-10-29 18:56:35 INFO  Testbase:86 - for element name:firstname the locatortype isname the locator value is  firstname
+2017-10-29 18:56:35 INFO  Testbase:86 - for element name:address1 the locatortype isname the locator value is  address1
+2017-10-29 18:56:35 INFO  Testbase:86 - for element name:city the locatortype isname the locator value is  city
+2017-10-29 18:56:35 INFO  Testbase:86 - for element name:id_state the locatortype isname the locator value is  id_state
+2017-10-29 18:56:35 INFO  Testbase:144 - selection dropdown
+2017-10-29 18:56:35 INFO  Testbase:86 - for element name:postcode the locatortype isname the locator value is  postcode
+2017-10-29 18:56:36 INFO  Testbase:86 - for element id:phone_mobile the locatortype isid the locator value is  phone_mobile
+2017-10-29 18:56:36 INFO  Testbase:86 - for element xpath://*[@value='My address'] the locatortype isxpath the locator value is  //*[@value='My address']
+2017-10-29 18:56:36 INFO  Testbase:86 - for element xpath://*[contains(text(),'Register')] the locatortype isxpath the locator value is  //*[contains(text(),'Register')]
+2017-10-29 18:56:37 INFO  Testbase:86 - for element xpath://*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')] the locatortype isxpath the locator value is  //*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')]
+2017-10-29 18:57:07 INFO  Testbase:161 - correct msg is not diplayed
+2017-10-29 18:57:07 INFO  Listener:46 - registrationPage
+2017-10-29 18:59:07 INFO  Testbase:64 - browser is loadedchrome
+2017-10-29 18:59:13 INFO  Testbase:74 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-29 18:59:18 INFO  TC003:28 - in registration page
+2017-10-29 18:59:19 INFO  Homepage:20 - in homepage
+2017-10-29 18:59:19 INFO  Testbase:86 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 18:59:20 INFO  LoginPage:14 - in loginpage
+2017-10-29 18:59:20 INFO  Testbase:112 - scrolling down the webpage
+2017-10-29 18:59:20 INFO  Testbase:86 - for element xpath://*[@id='email_create'] the locatortype isxpath the locator value is  //*[@id='email_create']
+2017-10-29 18:59:20 INFO  Testbase:119 - performing random mouse click
+2017-10-29 18:59:21 INFO  Testbase:86 - for element xpath://*[@name = 'SubmitCreate'] the locatortype isxpath the locator value is  //*[@name = 'SubmitCreate']
+2017-10-29 18:59:21 INFO  Testbase:103 - for element name:id_gender the locatortype isname the locator value is  id_gender
+2017-10-29 18:59:23 INFO  Testbase:131 - selection radio based on value2
+2017-10-29 18:59:23 INFO  Testbase:131 - selection radio based on value2
+2017-10-29 18:59:23 INFO  Testbase:86 - for element xpath://*[@name='customer_firstname'] the locatortype isxpath the locator value is  //*[@name='customer_firstname']
+2017-10-29 18:59:23 INFO  Testbase:86 - for element xpath://*[@name='customer_lastname'] the locatortype isxpath the locator value is  //*[@name='customer_lastname']
+2017-10-29 18:59:24 INFO  Testbase:86 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-10-29 18:59:24 INFO  Testbase:86 - for element name:days the locatortype isname the locator value is  days
+2017-10-29 18:59:24 INFO  Testbase:144 - selection dropdown
+2017-10-29 18:59:24 INFO  Testbase:86 - for element name:months the locatortype isname the locator value is  months
+2017-10-29 18:59:24 INFO  Testbase:144 - selection dropdown
+2017-10-29 18:59:24 INFO  Testbase:86 - for element name:years the locatortype isname the locator value is  years
+2017-10-29 18:59:24 INFO  Testbase:144 - selection dropdown
+2017-10-29 18:59:25 INFO  Testbase:86 - for element name:firstname the locatortype isname the locator value is  firstname
+2017-10-29 18:59:25 INFO  Testbase:86 - for element name:firstname the locatortype isname the locator value is  firstname
+2017-10-29 18:59:25 INFO  Testbase:86 - for element name:address1 the locatortype isname the locator value is  address1
+2017-10-29 18:59:25 INFO  Testbase:86 - for element name:city the locatortype isname the locator value is  city
+2017-10-29 18:59:25 INFO  Testbase:86 - for element name:id_state the locatortype isname the locator value is  id_state
+2017-10-29 18:59:25 INFO  Testbase:144 - selection dropdown
+2017-10-29 18:59:26 INFO  Testbase:86 - for element name:postcode the locatortype isname the locator value is  postcode
+2017-10-29 18:59:26 INFO  Testbase:86 - for element id:phone_mobile the locatortype isid the locator value is  phone_mobile
+2017-10-29 18:59:26 INFO  Testbase:86 - for element xpath://*[@value='My address'] the locatortype isxpath the locator value is  //*[@value='My address']
+2017-10-29 18:59:26 INFO  Testbase:86 - for element xpath://*[contains(text(),'Register')] the locatortype isxpath the locator value is  //*[contains(text(),'Register')]
+2017-10-29 18:59:28 INFO  Testbase:86 - for element xpath://*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')] the locatortype isxpath the locator value is  //*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')]
+2017-10-29 18:59:48 INFO  Testbase:64 - browser is loadedchrome
+2017-10-29 18:59:52 INFO  Testbase:74 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-29 18:59:58 INFO  Testbase:161 - correct msg is not diplayed
+2017-10-29 18:59:58 INFO  Listener:65 - registrationPage
+2017-10-29 19:00:13 INFO  TC003:28 - in registration page
+2017-10-29 19:00:13 INFO  Homepage:20 - in homepage
+2017-10-29 19:00:13 INFO  Testbase:86 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 19:00:16 INFO  LoginPage:14 - in loginpage
+2017-10-29 19:00:16 INFO  Testbase:112 - scrolling down the webpage
+2017-10-29 19:00:16 INFO  Testbase:86 - for element xpath://*[@id='email_create'] the locatortype isxpath the locator value is  //*[@id='email_create']
+2017-10-29 19:00:16 INFO  Testbase:119 - performing random mouse click
+2017-10-29 19:00:17 INFO  Testbase:86 - for element xpath://*[@name = 'SubmitCreate'] the locatortype isxpath the locator value is  //*[@name = 'SubmitCreate']
+2017-10-29 19:00:18 INFO  Testbase:103 - for element name:id_gender the locatortype isname the locator value is  id_gender
+2017-10-29 19:00:19 INFO  Testbase:131 - selection radio based on value2
+2017-10-29 19:00:19 INFO  Testbase:131 - selection radio based on value2
+2017-10-29 19:00:19 INFO  Testbase:86 - for element xpath://*[@name='customer_firstname'] the locatortype isxpath the locator value is  //*[@name='customer_firstname']
+2017-10-29 19:00:20 INFO  Testbase:86 - for element xpath://*[@name='customer_lastname'] the locatortype isxpath the locator value is  //*[@name='customer_lastname']
+2017-10-29 19:00:20 INFO  Testbase:86 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-10-29 19:00:20 INFO  Testbase:86 - for element name:days the locatortype isname the locator value is  days
+2017-10-29 19:00:20 INFO  Testbase:144 - selection dropdown
+2017-10-29 19:00:20 INFO  Testbase:86 - for element name:months the locatortype isname the locator value is  months
+2017-10-29 19:00:20 INFO  Testbase:144 - selection dropdown
+2017-10-29 19:00:21 INFO  Testbase:86 - for element name:years the locatortype isname the locator value is  years
+2017-10-29 19:00:21 INFO  Testbase:144 - selection dropdown
+2017-10-29 19:00:21 INFO  Testbase:86 - for element name:firstname the locatortype isname the locator value is  firstname
+2017-10-29 19:00:21 INFO  Testbase:86 - for element name:firstname the locatortype isname the locator value is  firstname
+2017-10-29 19:00:21 INFO  Testbase:86 - for element name:address1 the locatortype isname the locator value is  address1
+2017-10-29 19:00:21 INFO  Testbase:86 - for element name:city the locatortype isname the locator value is  city
+2017-10-29 19:00:22 INFO  Testbase:86 - for element name:id_state the locatortype isname the locator value is  id_state
+2017-10-29 19:00:22 INFO  Testbase:144 - selection dropdown
+2017-10-29 19:00:22 INFO  Testbase:86 - for element name:postcode the locatortype isname the locator value is  postcode
+2017-10-29 19:00:22 INFO  Testbase:86 - for element id:phone_mobile the locatortype isid the locator value is  phone_mobile
+2017-10-29 19:00:22 INFO  Testbase:86 - for element xpath://*[@value='My address'] the locatortype isxpath the locator value is  //*[@value='My address']
+2017-10-29 19:00:23 INFO  Testbase:86 - for element xpath://*[contains(text(),'Register')] the locatortype isxpath the locator value is  //*[contains(text(),'Register')]
+2017-10-29 19:00:24 INFO  Testbase:86 - for element xpath://*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')] the locatortype isxpath the locator value is  //*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')]
+2017-10-29 19:00:24 INFO  Testbase:155 - webelemt is [[ChromeDriver: chrome on XP (3a2a4a795f297875ebb7746236888496)] -> xpath: //*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')]]
+2017-10-29 19:00:24 INFO  Listener:39 - registrationPage
+2017-10-29 19:11:21 INFO  Testbase:64 - browser is loadedchrome
+2017-10-29 19:11:33 INFO  Testbase:74 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-29 19:11:42 INFO  TC003:28 - in registration page
+2017-10-29 19:11:42 INFO  Homepage:20 - in homepage
+2017-10-29 19:11:42 INFO  Testbase:86 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 19:11:44 INFO  LoginPage:15 - in loginpage
+2017-10-29 19:11:44 INFO  Testbase:112 - scrolling down the webpage
+2017-10-29 19:11:44 INFO  Testbase:86 - for element xpath://*[@id='email_create'] the locatortype isxpath the locator value is  //*[@id='email_create']
+2017-10-29 19:11:44 INFO  Testbase:119 - performing random mouse click
+2017-10-29 19:11:46 INFO  Testbase:86 - for element xpath://*[@name = 'SubmitCreate'] the locatortype isxpath the locator value is  //*[@name = 'SubmitCreate']
+2017-10-29 19:11:46 INFO  Testbase:103 - for element name:id_gender the locatortype isname the locator value is  id_gender
+2017-10-29 19:12:16 INFO  Listener:39 - registrationPage
+2017-10-29 19:18:24 INFO  Testbase:64 - browser is loadedchrome
+2017-10-29 19:18:36 INFO  Testbase:74 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-29 19:18:45 INFO  TC003:28 - in registration page
+2017-10-29 19:18:45 INFO  Homepage:20 - in homepage
+2017-10-29 19:18:45 INFO  Testbase:86 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 19:18:47 INFO  LoginPage:16 - in loginpage
+2017-10-29 19:18:47 INFO  Testbase:112 - scrolling down the webpage
+2017-10-29 19:18:47 INFO  Testbase:86 - for element xpath://*[@id='email_create'] the locatortype isxpath the locator value is  //*[@id='email_create']
+2017-10-29 19:18:47 INFO  Testbase:119 - performing random mouse click
+2017-10-29 19:18:48 INFO  Testbase:86 - for element xpath://*[@name = 'SubmitCreate'] the locatortype isxpath the locator value is  //*[@name = 'SubmitCreate']
+2017-10-29 19:18:49 INFO  Testbase:103 - for element name:id_gender the locatortype isname the locator value is  id_gender
+2017-10-29 19:19:19 INFO  Listener:39 - registrationPage
+2017-10-29 21:40:51 INFO  Testbase:68 - browser is loadedchrome
+2017-10-29 21:41:15 INFO  Testbase:78 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-29 21:42:34 INFO  Testbase:68 - browser is loadedchrome
+2017-10-29 21:42:46 INFO  Testbase:78 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-29 21:49:07 INFO  Testbase:68 - browser is loadedchrome
+2017-10-29 21:49:11 INFO  Testbase:78 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-29 21:49:18 INFO  Testbase:177 - [[Ljava.lang.String;@7f6f61c8
+2017-10-29 21:49:18 INFO  TC001:30 - [[Ljava.lang.String;@7f6f61c8
+2017-10-29 21:59:43 INFO  Testbase:68 - browser is loadedchrome
+2017-10-29 21:59:47 INFO  Testbase:78 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-29 21:59:59 INFO  TC001:30 - [[Ljava.lang.String;@7f6f61c8
+2017-10-29 22:00:36 INFO  Testbase:68 - browser is loadedchrome
+2017-10-29 22:00:41 INFO  Testbase:78 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-29 22:00:51 INFO  TC001:30 - [[Ljava.lang.String;@7f6f61c8
+2017-10-29 22:02:33 INFO  Testbase:68 - browser is loadedchrome
+2017-10-29 22:02:37 INFO  Testbase:78 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-29 22:02:46 INFO  TC001:30 - [[Ljava.lang.String;@7f6f61c8
+2017-10-29 22:02:46 INFO  Homepage:20 - in homepage
+2017-10-29 22:02:46 INFO  Testbase:90 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 22:02:50 INFO  LoginPage:37 - in loginpage
+2017-10-29 22:02:50 INFO  LoginPage:38 - megha@gmail.com and password
+2017-10-29 22:02:50 INFO  Testbase:90 - for element name:email the locatortype isname the locator value is  email
+2017-10-29 22:02:51 INFO  Testbase:90 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-10-29 22:02:52 INFO  Testbase:90 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 22:02:52 INFO  Homepage:20 - in homepage
+2017-10-29 22:02:52 INFO  Testbase:90 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 22:02:52 INFO  Homepage:20 - in homepage
+2017-10-29 22:02:52 INFO  Testbase:90 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 22:04:57 INFO  Testbase:68 - browser is loadedchrome
+2017-10-29 22:05:00 INFO  Testbase:78 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-29 22:05:08 INFO  TC001:30 - [[Ljava.lang.String;@7f6f61c8
+2017-10-29 22:05:08 INFO  Homepage:20 - in homepage
+2017-10-29 22:05:08 INFO  Testbase:90 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 22:05:09 INFO  LoginPage:37 - in loginpage
+2017-10-29 22:05:09 INFO  LoginPage:38 - megha@gmail.com and password
+2017-10-29 22:05:09 INFO  LoginPage:39 - in loginpage
+2017-10-29 22:05:09 INFO  Testbase:116 - scrolling down the webpage
+2017-10-29 22:05:10 INFO  Testbase:90 - for element name:email the locatortype isname the locator value is  email
+2017-10-29 22:05:10 INFO  Testbase:90 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-10-29 22:05:10 INFO  Testbase:123 - performing random mouse click
+2017-10-29 22:05:11 INFO  Testbase:90 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 22:05:12 INFO  Homepage:20 - in homepage
+2017-10-29 22:05:12 INFO  Testbase:90 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 22:05:12 INFO  Homepage:20 - in homepage
+2017-10-29 22:05:12 INFO  Testbase:90 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 22:07:17 INFO  Testbase:68 - browser is loadedchrome
+2017-10-29 22:07:20 INFO  Testbase:78 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-29 22:07:42 INFO  TC001:30 - [[Ljava.lang.String;@7f6f61c8
+2017-10-29 22:07:42 INFO  Homepage:20 - in homepage
+2017-10-29 22:07:42 INFO  Testbase:90 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 22:07:44 INFO  LoginPage:37 - in loginpage
+2017-10-29 22:07:44 INFO  LoginPage:38 - megha@gmail.com and password
+2017-10-29 22:07:44 INFO  LoginPage:39 - in loginpage
+2017-10-29 22:07:44 INFO  Testbase:116 - scrolling down the webpage
+2017-10-29 22:07:44 INFO  Testbase:90 - for element name:email the locatortype isname the locator value is  email
+2017-10-29 22:07:45 INFO  Testbase:90 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-10-29 22:07:45 INFO  Testbase:123 - performing random mouse click
+2017-10-29 22:07:46 INFO  Testbase:90 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 22:07:47 INFO  Homepage:20 - in homepage
+2017-10-29 22:07:47 INFO  Testbase:90 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 22:07:47 INFO  Homepage:20 - in homepage
+2017-10-29 22:07:47 INFO  Testbase:90 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 22:54:12 INFO  Testbase:68 - browser is loadedchrome
+2017-10-29 22:54:30 INFO  Testbase:78 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-29 22:54:42 INFO  TC001:30 - [[Ljava.lang.String;@7f6f61c8
+2017-10-29 22:54:42 INFO  Homepage:20 - in homepage
+2017-10-29 22:54:42 INFO  Testbase:90 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 22:54:44 INFO  LoginPage:37 - in loginpage
+2017-10-29 22:54:44 INFO  LoginPage:38 - megha@gmail.com and password
+2017-10-29 22:54:44 INFO  LoginPage:39 - in loginpage
+2017-10-29 22:54:44 INFO  Testbase:116 - scrolling down the webpage
+2017-10-29 22:54:44 INFO  Testbase:90 - for element name:email the locatortype isname the locator value is  email
+2017-10-29 22:54:45 INFO  Testbase:90 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-10-29 22:54:45 INFO  Testbase:123 - performing random mouse click
+2017-10-29 22:54:46 INFO  Testbase:90 - for element xpath://*[@name='SubmitLogin'] the locatortype isxpath the locator value is  //*[@name='SubmitLogin']
+2017-10-29 22:54:48 INFO  Homepage:20 - in homepage
+2017-10-29 22:54:48 INFO  Testbase:90 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 22:55:18 INFO  Homepage:20 - in homepage
+2017-10-29 22:55:18 INFO  Testbase:90 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 22:59:21 INFO  Testbase:68 - browser is loadedchrome
+2017-10-29 22:59:36 INFO  Testbase:78 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-29 22:59:49 INFO  TC001:30 - [[Ljava.lang.String;@7f6f61c8
+2017-10-29 22:59:49 INFO  Homepage:20 - in homepage
+2017-10-29 22:59:49 INFO  Testbase:90 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 22:59:51 INFO  LoginPage:37 - in loginpage
+2017-10-29 22:59:51 INFO  LoginPage:38 - megha@gmail.com and password
+2017-10-29 22:59:51 INFO  LoginPage:39 - in loginpage
+2017-10-29 22:59:51 INFO  Testbase:116 - scrolling down the webpage
+2017-10-29 22:59:51 INFO  Testbase:90 - for element name:email the locatortype isname the locator value is  email
+2017-10-29 22:59:52 INFO  Testbase:90 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-10-29 22:59:52 INFO  Testbase:123 - performing random mouse click
+2017-10-29 22:59:53 INFO  Testbase:90 - for element xpath://*[@name='SubmitLogin'] the locatortype isxpath the locator value is  //*[@name='SubmitLogin']
+2017-10-29 22:59:54 INFO  Testbase:90 - for element xpath://*[@title='Log me out'] the locatortype isxpath the locator value is  //*[@title='Log me out']
+2017-10-29 22:59:56 INFO  Homepage:20 - in homepage
+2017-10-29 22:59:56 INFO  Testbase:90 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 22:59:57 INFO  LoginPage:37 - in loginpage
+2017-10-29 22:59:57 INFO  LoginPage:38 - learnbybhanu@gmail.com and welcome
+2017-10-29 22:59:57 INFO  LoginPage:39 - in loginpage
+2017-10-29 22:59:57 INFO  Testbase:116 - scrolling down the webpage
+2017-10-29 22:59:57 INFO  Testbase:90 - for element name:email the locatortype isname the locator value is  email
+2017-10-29 22:59:57 INFO  Testbase:90 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-10-29 22:59:58 INFO  Testbase:123 - performing random mouse click
+2017-10-29 22:59:59 INFO  Testbase:90 - for element xpath://*[@name='SubmitLogin'] the locatortype isxpath the locator value is  //*[@name='SubmitLogin']
+2017-10-29 22:59:59 INFO  Testbase:90 - for element xpath://*[@title='Log me out'] the locatortype isxpath the locator value is  //*[@title='Log me out']
+2017-10-29 23:00:50 INFO  Homepage:20 - in homepage
+2017-10-29 23:00:50 INFO  Testbase:90 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 23:00:51 INFO  LoginPage:37 - in loginpage
+2017-10-29 23:00:51 INFO  LoginPage:38 - null and null
+2017-10-29 23:00:51 INFO  LoginPage:39 - in loginpage
+2017-10-29 23:00:51 INFO  Testbase:116 - scrolling down the webpage
+2017-10-29 23:00:51 INFO  Testbase:90 - for element name:email the locatortype isname the locator value is  email
+2017-10-29 23:02:29 INFO  Testbase:68 - browser is loadedchrome
+2017-10-29 23:02:36 INFO  Testbase:78 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-29 23:02:48 INFO  TC001:30 - [[Ljava.lang.String;@7f6f61c8
+2017-10-29 23:02:48 INFO  Homepage:20 - in homepage
+2017-10-29 23:02:48 INFO  Testbase:90 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 23:02:50 INFO  LoginPage:37 - in loginpage
+2017-10-29 23:02:50 INFO  LoginPage:38 - megha@gmail.com and password
+2017-10-29 23:02:50 INFO  LoginPage:39 - in loginpage
+2017-10-29 23:02:50 INFO  Testbase:116 - scrolling down the webpage
+2017-10-29 23:02:50 INFO  Testbase:90 - for element name:email the locatortype isname the locator value is  email
+2017-10-29 23:02:50 INFO  Testbase:90 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-10-29 23:02:50 INFO  Testbase:123 - performing random mouse click
+2017-10-29 23:02:52 INFO  Testbase:90 - for element xpath://*[@name='SubmitLogin'] the locatortype isxpath the locator value is  //*[@name='SubmitLogin']
+2017-10-29 23:02:53 INFO  Testbase:90 - for element xpath://*[@title='Log me out'] the locatortype isxpath the locator value is  //*[@title='Log me out']
+2017-10-29 23:02:55 INFO  Homepage:20 - in homepage
+2017-10-29 23:02:55 INFO  Testbase:90 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 23:02:56 INFO  LoginPage:37 - in loginpage
+2017-10-29 23:02:56 INFO  LoginPage:38 - megha08jan@gmail.com and password
+2017-10-29 23:02:56 INFO  LoginPage:39 - in loginpage
+2017-10-29 23:02:56 INFO  Testbase:116 - scrolling down the webpage
+2017-10-29 23:02:56 INFO  Testbase:90 - for element name:email the locatortype isname the locator value is  email
+2017-10-29 23:02:56 INFO  Testbase:90 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-10-29 23:02:56 INFO  Testbase:123 - performing random mouse click
+2017-10-29 23:02:57 INFO  Testbase:90 - for element xpath://*[@name='SubmitLogin'] the locatortype isxpath the locator value is  //*[@name='SubmitLogin']
+2017-10-29 23:02:59 INFO  Testbase:90 - for element xpath://*[@title='Log me out'] the locatortype isxpath the locator value is  //*[@title='Log me out']
+2017-10-29 23:03:01 INFO  Homepage:20 - in homepage
+2017-10-29 23:03:01 INFO  Testbase:90 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 23:03:02 INFO  LoginPage:37 - in loginpage
+2017-10-29 23:03:02 INFO  LoginPage:38 - null and null
+2017-10-29 23:03:02 INFO  LoginPage:39 - in loginpage
+2017-10-29 23:03:02 INFO  Testbase:116 - scrolling down the webpage
+2017-10-29 23:03:02 INFO  Testbase:90 - for element name:email the locatortype isname the locator value is  email
+2017-10-29 23:03:47 INFO  Testbase:68 - browser is loadedchrome
+2017-10-29 23:03:53 INFO  Testbase:78 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-29 23:03:59 INFO  TC001:30 - [[Ljava.lang.String;@7f6f61c8
+2017-10-29 23:03:59 INFO  Homepage:20 - in homepage
+2017-10-29 23:03:59 INFO  Testbase:90 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 23:04:01 INFO  LoginPage:37 - in loginpage
+2017-10-29 23:04:01 INFO  LoginPage:38 - megha@gmail.com and password
+2017-10-29 23:04:01 INFO  LoginPage:39 - in loginpage
+2017-10-29 23:04:01 INFO  Testbase:116 - scrolling down the webpage
+2017-10-29 23:04:01 INFO  Testbase:90 - for element name:email the locatortype isname the locator value is  email
+2017-10-29 23:04:01 INFO  Testbase:90 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-10-29 23:04:01 INFO  Testbase:123 - performing random mouse click
+2017-10-29 23:04:02 INFO  Testbase:90 - for element xpath://*[@name='SubmitLogin'] the locatortype isxpath the locator value is  //*[@name='SubmitLogin']
+2017-10-29 23:04:04 INFO  Testbase:90 - for element xpath://*[@title='Log me out'] the locatortype isxpath the locator value is  //*[@title='Log me out']
+2017-10-29 23:04:06 INFO  Homepage:20 - in homepage
+2017-10-29 23:04:06 INFO  Testbase:90 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 23:04:07 INFO  LoginPage:37 - in loginpage
+2017-10-29 23:04:07 INFO  LoginPage:38 - megha08jan@gmail.com and password
+2017-10-29 23:04:07 INFO  LoginPage:39 - in loginpage
+2017-10-29 23:04:07 INFO  Testbase:116 - scrolling down the webpage
+2017-10-29 23:04:07 INFO  Testbase:90 - for element name:email the locatortype isname the locator value is  email
+2017-10-29 23:04:07 INFO  Testbase:90 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-10-29 23:04:07 INFO  Testbase:123 - performing random mouse click
+2017-10-29 23:04:08 INFO  Testbase:90 - for element xpath://*[@name='SubmitLogin'] the locatortype isxpath the locator value is  //*[@name='SubmitLogin']
+2017-10-29 23:04:10 INFO  Testbase:90 - for element xpath://*[@title='Log me out'] the locatortype isxpath the locator value is  //*[@title='Log me out']
+2017-10-29 23:04:11 INFO  Homepage:20 - in homepage
+2017-10-29 23:04:11 INFO  Testbase:90 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 23:04:13 INFO  LoginPage:37 - in loginpage
+2017-10-29 23:04:13 INFO  LoginPage:38 - null and null
+2017-10-29 23:04:13 INFO  LoginPage:39 - in loginpage
+2017-10-29 23:04:13 INFO  Testbase:116 - scrolling down the webpage
+2017-10-29 23:04:13 INFO  Testbase:90 - for element name:email the locatortype isname the locator value is  email
+2017-10-29 23:06:08 INFO  Testbase:68 - browser is loadedchrome
+2017-10-29 23:06:11 INFO  Testbase:78 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-29 23:06:21 INFO  TC001:30 - [[Ljava.lang.String;@7f6f61c8
+2017-10-29 23:06:21 INFO  Homepage:20 - in homepage
+2017-10-29 23:06:21 INFO  Testbase:90 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 23:06:23 INFO  LoginPage:37 - in loginpage
+2017-10-29 23:06:23 INFO  LoginPage:38 - megha@gmail.com and password
+2017-10-29 23:06:23 INFO  LoginPage:39 - in loginpage
+2017-10-29 23:06:23 INFO  Testbase:116 - scrolling down the webpage
+2017-10-29 23:06:23 INFO  Testbase:90 - for element name:email the locatortype isname the locator value is  email
+2017-10-29 23:06:24 INFO  Testbase:90 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-10-29 23:06:24 INFO  Testbase:123 - performing random mouse click
+2017-10-29 23:06:25 INFO  Testbase:90 - for element xpath://*[@name='SubmitLogin'] the locatortype isxpath the locator value is  //*[@name='SubmitLogin']
+2017-10-29 23:06:26 INFO  Testbase:90 - for element xpath://*[@title='Log me out'] the locatortype isxpath the locator value is  //*[@title='Log me out']
+2017-10-29 23:06:28 INFO  Homepage:20 - in homepage
+2017-10-29 23:06:28 INFO  Testbase:90 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 23:06:29 INFO  LoginPage:37 - in loginpage
+2017-10-29 23:06:29 INFO  LoginPage:38 - megha08jan@gmail.com and password
+2017-10-29 23:06:29 INFO  LoginPage:39 - in loginpage
+2017-10-29 23:06:29 INFO  Testbase:116 - scrolling down the webpage
+2017-10-29 23:06:29 INFO  Testbase:90 - for element name:email the locatortype isname the locator value is  email
+2017-10-29 23:06:30 INFO  Testbase:90 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-10-29 23:06:30 INFO  Testbase:123 - performing random mouse click
+2017-10-29 23:06:31 INFO  Testbase:90 - for element xpath://*[@name='SubmitLogin'] the locatortype isxpath the locator value is  //*[@name='SubmitLogin']
+2017-10-29 23:06:32 INFO  Testbase:90 - for element xpath://*[@title='Log me out'] the locatortype isxpath the locator value is  //*[@title='Log me out']
+2017-10-29 23:17:40 INFO  Testbase:68 - browser is loadedchrome
+2017-10-29 23:17:55 INFO  Testbase:78 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-29 23:18:05 INFO  TC001:30 - [[Ljava.lang.String;@7f6f61c8
+2017-10-29 23:18:05 INFO  Homepage:20 - in homepage
+2017-10-29 23:18:05 INFO  Testbase:90 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 23:18:07 INFO  LoginPage:37 - in loginpage
+2017-10-29 23:18:07 INFO  LoginPage:38 - megha@gmail.com and password
+2017-10-29 23:18:07 INFO  LoginPage:39 - in loginpage
+2017-10-29 23:18:07 INFO  Testbase:116 - scrolling down the webpage
+2017-10-29 23:18:07 INFO  Testbase:90 - for element name:email the locatortype isname the locator value is  email
+2017-10-29 23:18:07 INFO  Testbase:90 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-10-29 23:18:08 INFO  Testbase:123 - performing random mouse click
+2017-10-29 23:18:09 INFO  Testbase:90 - for element xpath://*[@name='SubmitLogin'] the locatortype isxpath the locator value is  //*[@name='SubmitLogin']
+2017-10-29 23:18:10 INFO  Testbase:90 - for element xpath://*[@title='Log me out'] the locatortype isxpath the locator value is  //*[@title='Log me out']
+2017-10-29 23:18:12 INFO  Homepage:20 - in homepage
+2017-10-29 23:18:12 INFO  Testbase:90 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-29 23:18:19 INFO  LoginPage:37 - in loginpage
+2017-10-29 23:18:19 INFO  LoginPage:38 - megha08jan@gmail.com and password
+2017-10-29 23:18:19 INFO  LoginPage:39 - in loginpage
+2017-10-29 23:18:19 INFO  Testbase:116 - scrolling down the webpage
+2017-10-29 23:18:19 INFO  Testbase:90 - for element name:email the locatortype isname the locator value is  email
+2017-10-29 23:18:19 INFO  Testbase:90 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-10-29 23:18:19 INFO  Testbase:123 - performing random mouse click
+2017-10-29 23:18:20 INFO  Testbase:90 - for element xpath://*[@name='SubmitLogin'] the locatortype isxpath the locator value is  //*[@name='SubmitLogin']
+2017-10-29 23:18:27 INFO  Testbase:90 - for element xpath://*[@title='Log me out'] the locatortype isxpath the locator value is  //*[@title='Log me out']
+2017-10-30 20:07:29 INFO  Testbase:68 - browser is loadedchrome
+2017-10-30 20:08:25 INFO  Testbase:78 - url is loadedhttp://automationpractice.com/index.php?
+2017-10-30 20:08:46 INFO  TC001:30 - [[Ljava.lang.String;@7f6f61c8
+2017-10-30 20:08:46 INFO  Homepage:20 - in homepage
+2017-10-30 20:08:46 INFO  Testbase:90 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-30 20:08:49 INFO  LoginPage:37 - in loginpage
+2017-10-30 20:08:49 INFO  LoginPage:38 - megha@gmail.com and password
+2017-10-30 20:08:49 INFO  LoginPage:39 - in loginpage
+2017-10-30 20:08:49 INFO  Testbase:116 - scrolling down the webpage
+2017-10-30 20:08:49 INFO  Testbase:90 - for element name:email the locatortype isname the locator value is  email
+2017-10-30 20:08:51 INFO  Testbase:90 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-10-30 20:08:51 INFO  Testbase:123 - performing random mouse click
+2017-10-30 20:08:52 INFO  Testbase:90 - for element xpath://*[@name='SubmitLogin'] the locatortype isxpath the locator value is  //*[@name='SubmitLogin']
+2017-10-30 20:08:54 INFO  Testbase:90 - for element xpath://*[@title='Log me out'] the locatortype isxpath the locator value is  //*[@title='Log me out']
+2017-10-30 20:08:56 INFO  Homepage:20 - in homepage
+2017-10-30 20:08:56 INFO  Testbase:90 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-10-30 20:08:57 INFO  LoginPage:37 - in loginpage
+2017-10-30 20:08:57 INFO  LoginPage:38 - megha08jan@gmail.com and password
+2017-10-30 20:08:57 INFO  LoginPage:39 - in loginpage
+2017-10-30 20:08:57 INFO  Testbase:116 - scrolling down the webpage
+2017-10-30 20:08:57 INFO  Testbase:90 - for element name:email the locatortype isname the locator value is  email
+2017-10-30 20:08:57 INFO  Testbase:90 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-10-30 20:08:58 INFO  Testbase:123 - performing random mouse click
+2017-10-30 20:08:59 INFO  Testbase:90 - for element xpath://*[@name='SubmitLogin'] the locatortype isxpath the locator value is  //*[@name='SubmitLogin']
+2017-10-30 20:09:00 INFO  Testbase:90 - for element xpath://*[@title='Log me out'] the locatortype isxpath the locator value is  //*[@title='Log me out']
+2017-11-01 01:29:01 INFO  Testbase:68 - browser is loadedchrome
+2017-11-01 01:29:34 INFO  Testbase:78 - url is loadedhttp://automationpractice.com/index.php?
+2017-11-01 01:29:47 INFO  TC003:28 - in registration page
+2017-11-01 01:29:47 INFO  Homepage:20 - in homepage
+2017-11-01 01:29:47 INFO  Testbase:90 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-11-01 01:29:49 INFO  LoginPage:16 - in loginpage
+2017-11-01 01:29:49 INFO  Testbase:116 - scrolling down the webpage
+2017-11-01 01:29:49 INFO  Testbase:90 - for element xpath://*[@id='email_create'] the locatortype isxpath the locator value is  //*[@id='email_create']
+2017-11-01 01:29:50 INFO  Testbase:123 - performing random mouse click
+2017-11-01 01:29:51 INFO  Testbase:90 - for element xpath://*[@name = 'SubmitCreate'] the locatortype isxpath the locator value is  //*[@name = 'SubmitCreate']
+2017-11-01 01:29:51 INFO  Testbase:107 - for element name:id_gender the locatortype isname the locator value is  id_gender
+2017-11-01 01:30:21 INFO  Listener:39 - registrationPage
+2017-11-01 01:42:30 INFO  Testbase:68 - browser is loadedchrome
+2017-11-01 01:42:49 INFO  Testbase:78 - url is loadedhttp://automationpractice.com/index.php?
+2017-11-01 01:44:46 INFO  Testbase:68 - browser is loadedchrome
+2017-11-01 01:44:54 INFO  Testbase:78 - url is loadedhttp://automationpractice.com/index.php?
+2017-11-01 01:45:26 INFO  Testbase:68 - browser is loadedchrome
+2017-11-01 01:45:30 INFO  Testbase:78 - url is loadedhttp://automationpractice.com/index.php?
+2017-11-01 01:46:01 INFO  Testbase:68 - browser is loadedchrome
+2017-11-01 01:46:05 INFO  Testbase:78 - url is loadedhttp://automationpractice.com/index.php?
+2017-11-01 01:46:34 INFO  Testbase:68 - browser is loadedchrome
+2017-11-01 01:46:39 INFO  Testbase:78 - url is loadedhttp://automationpractice.com/index.php?
+2017-11-01 01:47:17 INFO  Testbase:68 - browser is loadedchrome
+2017-11-01 01:47:21 INFO  Testbase:78 - url is loadedhttp://automationpractice.com/index.php?
+2017-11-01 02:01:21 INFO  Testbase:70 - browser is loadedchrome
+2017-11-01 02:01:36 INFO  Testbase:80 - url is loadedhttp://automationpractice.com/index.php?
+2017-11-01 02:01:43 INFO  Testbase:92 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-11-01 02:01:43 INFO  Testbase:92 - for element xpath://*[@title='T-shirts'] the locatortype isxpath the locator value is  //*[@title='T-shirts']
+2017-11-01 02:03:23 INFO  Testbase:70 - browser is loadedchrome
+2017-11-01 02:03:29 INFO  Testbase:80 - url is loadedhttp://automationpractice.com/index.php?
+2017-11-01 02:03:36 INFO  Testbase:92 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-11-01 02:03:36 INFO  Testbase:92 - for element xpath://*[@title='T-shirts'] the locatortype isxpath the locator value is  //*[@title='T-shirts']
+2017-11-01 02:04:15 INFO  Testbase:70 - browser is loadedchrome
+2017-11-01 02:04:19 INFO  Testbase:80 - url is loadedhttp://automationpractice.com/index.php?
+2017-11-01 02:04:28 INFO  Testbase:92 - for element xpath://*[@title='Women' and @class ='sf-with-ul'] the locatortype isxpath the locator value is  //*[@title='Women' and @class ='sf-with-ul']
+2017-11-01 02:04:28 INFO  Testbase:92 - for element xpath://*[@title='T-shirts'] the locatortype isxpath the locator value is  //*[@title='T-shirts']
+2017-11-01 02:05:12 INFO  Testbase:70 - browser is loadedchrome
+2017-11-01 02:05:18 INFO  Testbase:80 - url is loadedhttp://automationpractice.com/index.php?
+2017-11-01 02:05:26 INFO  Testbase:92 - for element xpath://*[@title='Women' and @class ='sf-with-ul'] the locatortype isxpath the locator value is  //*[@title='Women' and @class ='sf-with-ul']
+2017-11-01 02:05:27 INFO  Testbase:92 - for element xpath://*[@title='T-shirts'] the locatortype isxpath the locator value is  //*[@title='T-shirts']
+2017-11-01 02:25:24 INFO  Testbase:70 - browser is loadedchrome
+2017-11-01 02:25:28 INFO  Testbase:80 - url is loadedhttp://automationpractice.com/index.php?
+2017-11-01 02:25:34 INFO  Testbase:92 - for element xpath://*[@title='Women' and @class ='sf-with-ul'] the locatortype isxpath the locator value is  //*[@title='Women' and @class ='sf-with-ul']
+2017-11-01 02:25:34 INFO  Mouseaction:15 - element is [[ChromeDriver: chrome on XP (c2b065c1fac654bc81c0d9cc17795b1d)] -> xpath: //*[@title='Women' and @class ='sf-with-ul']]
+2017-11-01 02:25:34 INFO  Testbase:92 - for element xpath://*[@title='T-shirts'] the locatortype isxpath the locator value is  //*[@title='T-shirts']
+2017-11-01 02:25:34 INFO  Mouseaction:21 - element is [[ChromeDriver: chrome on XP (c2b065c1fac654bc81c0d9cc17795b1d)] -> xpath: //*[@title='T-shirts']]
+2017-11-01 13:15:43 INFO  Testbase:70 - browser is loadedchrome
+2017-11-01 13:16:17 INFO  Testbase:80 - url is loadedhttp://automationpractice.com/index.php?
+2017-11-01 13:16:26 INFO  Testbase:92 - for element xpath://*[@title='Women' and @class ='sf-with-ul'] the locatortype isxpath the locator value is  //*[@title='Women' and @class ='sf-with-ul']
+2017-11-01 13:16:29 INFO  Mouseaction:15 - element is [[ChromeDriver: chrome on XP (f97b16e4077f11334287280ebf6c8973)] -> xpath: //*[@title='Women' and @class ='sf-with-ul']]
+2017-11-01 13:16:29 INFO  Testbase:92 - for element xpath://*[@title='T-shirts'] the locatortype isxpath the locator value is  //*[@title='T-shirts']
+2017-11-01 13:16:29 INFO  Mouseaction:21 - element is [[ChromeDriver: chrome on XP (f97b16e4077f11334287280ebf6c8973)] -> xpath: //*[@title='T-shirts']]
+2017-11-01 13:34:20 INFO  Testbase:70 - browser is loadedchrome
+2017-11-01 13:34:36 INFO  Testbase:80 - url is loadedhttp://automationpractice.com/index.php?
+2017-11-01 13:34:46 INFO  Testbase:92 - for element xpath://*[@title='Women' and @class ='sf-with-ul'] the locatortype isxpath the locator value is  //*[@title='Women' and @class ='sf-with-ul']
+2017-11-01 13:34:46 INFO  Mouseaction:21 - element is [[ChromeDriver: chrome on XP (c19aeb8c806a4676bea694ef9387c8d2)] -> xpath: //*[@title='Women' and @class ='sf-with-ul']]
+2017-11-01 13:34:48 INFO  Productpage:32 - total items are 7
+2017-11-01 13:48:16 INFO  Testbase:76 - browser is loadedchrome
+2017-11-01 13:48:23 INFO  Testbase:86 - url is loadedhttp://automationpractice.com/index.php?
+2017-11-01 13:48:33 INFO  Testbase:98 - for element xpath://*[@title='Women' and @class ='sf-with-ul'] the locatortype isxpath the locator value is  //*[@title='Women' and @class ='sf-with-ul']
+2017-11-01 13:48:33 INFO  Mouseaction:21 - element is [[ChromeDriver: chrome on XP (4933fb0780c03e9a8ae1edfa46877214)] -> xpath: //*[@title='Women' and @class ='sf-with-ul']]
+2017-11-01 13:48:35 INFO  Testbase:115 - for element xpath://*[@class='product_list grid row']/li the locatortype isxpath the locator value is  //*[@class='product_list grid row']/li
+2017-11-01 13:49:58 INFO  Testbase:76 - browser is loadedchrome
+2017-11-01 13:50:07 INFO  Testbase:86 - url is loadedhttp://automationpractice.com/index.php?
+2017-11-01 13:50:16 INFO  Testbase:98 - for element xpath://*[@title='Women' and @class ='sf-with-ul'] the locatortype isxpath the locator value is  //*[@title='Women' and @class ='sf-with-ul']
+2017-11-01 13:50:16 INFO  Mouseaction:21 - element is [[ChromeDriver: chrome on XP (2e408a95d8b14f9c9ce76baf72d56cb8)] -> xpath: //*[@title='Women' and @class ='sf-with-ul']]
+2017-11-01 13:50:18 INFO  Testbase:115 - for element xpath://*[@class='product_list grid row']/li the locatortype isxpath the locator value is  //*[@class='product_list grid row']/li
+2017-11-01 13:50:19 INFO  Productpage:32 - total items are 7
+2017-11-01 14:40:39 INFO  Testbase:76 - browser is loadedchrome
+2017-11-01 14:40:57 INFO  Testbase:86 - url is loadedhttp://automationpractice.com/index.php?
+2017-11-01 14:41:07 INFO  Homepage:31 - in homepage
+2017-11-01 14:41:07 INFO  Testbase:98 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-11-01 14:41:09 INFO  LoginPage:39 - in loginpage
+2017-11-01 14:41:09 INFO  LoginPage:40 - megha08jan@gmail.com and password
+2017-11-01 14:41:09 INFO  LoginPage:41 - in loginpage
+2017-11-01 14:41:09 INFO  Testbase:126 - scrolling down the webpage
+2017-11-01 14:41:09 INFO  Testbase:98 - for element name:email the locatortype isname the locator value is  email
+2017-11-01 14:41:09 INFO  Testbase:98 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-11-01 14:41:10 INFO  Mouseaction:28 - perform random click
+2017-11-01 14:41:11 INFO  Testbase:98 - for element xpath://*[@name='SubmitLogin'] the locatortype isxpath the locator value is  //*[@name='SubmitLogin']
+2017-11-01 14:41:12 INFO  Testbase:98 - for element xpath://*[@title='Women' and @class ='sf-with-ul'] the locatortype isxpath the locator value is  //*[@title='Women' and @class ='sf-with-ul']
+2017-11-01 14:41:12 INFO  Mouseaction:21 - element is [[ChromeDriver: chrome on XP (355f561fc7e78a497cc9495ec090b159)] -> xpath: //*[@title='Women' and @class ='sf-with-ul']]
+2017-11-01 14:41:14 INFO  Testbase:98 - for element xpath://*[@title='Women' and @class ='sf-with-ul'] the locatortype isxpath the locator value is  //*[@title='Women' and @class ='sf-with-ul']
+2017-11-01 14:41:14 INFO  Mouseaction:21 - element is [[ChromeDriver: chrome on XP (355f561fc7e78a497cc9495ec090b159)] -> xpath: //*[@title='Women' and @class ='sf-with-ul']]
+2017-11-01 14:41:15 INFO  Testbase:115 - for element xpath://*[@class='product_list grid row']/li the locatortype isxpath the locator value is  //*[@class='product_list grid row']/li
+2017-11-01 14:41:15 INFO  Productpage:25 - total items are 7
+2017-11-01 14:41:34 INFO  Testbase:76 - browser is loadedchrome
+2017-11-01 14:41:37 INFO  Testbase:86 - url is loadedhttp://automationpractice.com/index.php?
+2017-11-01 14:41:44 INFO  Homepage:31 - in homepage
+2017-11-01 14:41:44 INFO  Testbase:98 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-11-01 14:41:46 INFO  LoginPage:39 - in loginpage
+2017-11-01 14:41:46 INFO  LoginPage:40 - megha08jan@gmail.com and password
+2017-11-01 14:41:46 INFO  LoginPage:41 - in loginpage
+2017-11-01 14:41:46 INFO  Testbase:126 - scrolling down the webpage
+2017-11-01 14:41:46 INFO  Testbase:98 - for element name:email the locatortype isname the locator value is  email
+2017-11-01 14:41:46 INFO  Testbase:98 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-11-01 14:41:46 INFO  Mouseaction:28 - perform random click
+2017-11-01 14:41:47 INFO  Testbase:98 - for element xpath://*[@name='SubmitLogin'] the locatortype isxpath the locator value is  //*[@name='SubmitLogin']
+2017-11-01 14:41:49 INFO  Testbase:98 - for element xpath://*[@title='Women' and @class ='sf-with-ul'] the locatortype isxpath the locator value is  //*[@title='Women' and @class ='sf-with-ul']
+2017-11-01 14:41:49 INFO  Mouseaction:21 - element is [[ChromeDriver: chrome on XP (228b89661f370353c5d491c7c2853671)] -> xpath: //*[@title='Women' and @class ='sf-with-ul']]
+2017-11-01 14:41:50 INFO  Testbase:98 - for element xpath://*[@title='Women' and @class ='sf-with-ul'] the locatortype isxpath the locator value is  //*[@title='Women' and @class ='sf-with-ul']
+2017-11-01 14:41:50 INFO  Mouseaction:21 - element is [[ChromeDriver: chrome on XP (228b89661f370353c5d491c7c2853671)] -> xpath: //*[@title='Women' and @class ='sf-with-ul']]
+2017-11-01 14:41:52 INFO  Testbase:115 - for element xpath://*[@class='product_list grid row']/li the locatortype isxpath the locator value is  //*[@class='product_list grid row']/li
+2017-11-01 14:41:52 INFO  Productpage:25 - total items are 7
+2017-11-01 14:43:06 INFO  Testbase:76 - browser is loadedchrome
+2017-11-01 14:43:09 INFO  Testbase:86 - url is loadedhttp://automationpractice.com/index.php?
+2017-11-01 14:43:15 INFO  Homepage:31 - in homepage
+2017-11-01 14:43:15 INFO  Testbase:98 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-11-01 14:43:16 INFO  LoginPage:39 - in loginpage
+2017-11-01 14:43:16 INFO  LoginPage:40 - megha08jan@gmail.com and password
+2017-11-01 14:43:16 INFO  LoginPage:41 - in loginpage
+2017-11-01 14:43:16 INFO  Testbase:126 - scrolling down the webpage
+2017-11-01 14:43:16 INFO  Testbase:98 - for element name:email the locatortype isname the locator value is  email
+2017-11-01 14:43:17 INFO  Testbase:98 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-11-01 14:43:17 INFO  Mouseaction:28 - perform random click
+2017-11-01 14:43:18 INFO  Testbase:98 - for element xpath://*[@name='SubmitLogin'] the locatortype isxpath the locator value is  //*[@name='SubmitLogin']
+2017-11-01 14:43:19 INFO  Testbase:98 - for element xpath://*[@title='Women' and @class ='sf-with-ul'] the locatortype isxpath the locator value is  //*[@title='Women' and @class ='sf-with-ul']
+2017-11-01 14:43:19 INFO  Mouseaction:21 - element is [[ChromeDriver: chrome on XP (3eb917c3459e916600935f7ae815bd9c)] -> xpath: //*[@title='Women' and @class ='sf-with-ul']]
+2017-11-01 14:43:21 INFO  Testbase:98 - for element xpath://*[@title='Women' and @class ='sf-with-ul'] the locatortype isxpath the locator value is  //*[@title='Women' and @class ='sf-with-ul']
+2017-11-01 14:43:21 INFO  Mouseaction:21 - element is [[ChromeDriver: chrome on XP (3eb917c3459e916600935f7ae815bd9c)] -> xpath: //*[@title='Women' and @class ='sf-with-ul']]
+2017-11-01 14:43:22 INFO  Testbase:115 - for element xpath://*[@class='product_list grid row1']/li the locatortype isxpath the locator value is  //*[@class='product_list grid row1']/li
+2017-11-01 14:43:52 INFO  Productpage:25 - total items are 0
+2017-11-01 15:04:10 INFO  Testbase:76 - browser is loadedchrome
+2017-11-01 15:04:14 INFO  Testbase:86 - url is loadedhttp://automationpractice.com/index.php?
+2017-11-01 15:04:29 INFO  TC001:33 - [[Ljava.lang.String;@7f6f61c8
+2017-11-01 15:04:29 INFO  Homepage:31 - in homepage
+2017-11-01 15:04:29 INFO  Testbase:98 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-11-01 15:04:31 INFO  LoginPage:39 - in loginpage
+2017-11-01 15:04:31 INFO  LoginPage:40 - megha@gmail.com and password
+2017-11-01 15:04:31 INFO  LoginPage:41 - in loginpage
+2017-11-01 15:04:31 INFO  Testbase:126 - scrolling down the webpage
+2017-11-01 15:04:31 INFO  Testbase:98 - for element name:email the locatortype isname the locator value is  email
+2017-11-01 15:04:31 INFO  Testbase:98 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-11-01 15:04:31 INFO  Mouseaction:28 - perform random click
+2017-11-01 15:04:32 INFO  Testbase:98 - for element xpath://*[@name='SubmitLogin'] the locatortype isxpath the locator value is  //*[@name='SubmitLogin']
+2017-11-01 15:04:34 INFO  Homepage:31 - in homepage
+2017-11-01 15:04:34 INFO  Testbase:98 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-11-01 15:17:13 INFO  Testbase:76 - browser is loadedchrome
+2017-11-01 15:17:21 INFO  Testbase:86 - url is loadedhttp://automationpractice.com/index.php?
+2017-11-01 15:17:33 INFO  TC001:33 - [[Ljava.lang.String;@7f6f61c8
+2017-11-01 15:17:33 INFO  Homepage:33 - in homepage
+2017-11-01 15:17:33 INFO  Testbase:98 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-11-01 15:17:35 INFO  LoginPage:41 - in loginpage
+2017-11-01 15:17:35 INFO  LoginPage:42 - megha@gmail.com and password
+2017-11-01 15:17:35 INFO  LoginPage:43 - in loginpage
+2017-11-01 15:17:35 INFO  Testbase:126 - scrolling down the webpage
+2017-11-01 15:17:35 INFO  Testbase:98 - for element name:email the locatortype isname the locator value is  email
+2017-11-01 15:17:35 INFO  Testbase:98 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-11-01 15:17:35 INFO  Mouseaction:28 - perform random click
+2017-11-01 15:17:36 INFO  Testbase:98 - for element xpath://*[@name='SubmitLogin'] the locatortype isxpath the locator value is  //*[@name='SubmitLogin']
+2017-11-01 15:17:38 INFO  Homepage:33 - in homepage
+2017-11-01 15:17:38 INFO  Testbase:98 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-11-01 15:22:07 INFO  Testbase:76 - browser is loadedchrome
+2017-11-01 15:22:17 INFO  Testbase:86 - url is loadedhttp://automationpractice.com/index.php?
+2017-11-01 15:22:26 INFO  TC001:33 - [[Ljava.lang.String;@7f6f61c8
+2017-11-01 15:22:27 INFO  Homepage:33 - in homepage
+2017-11-01 15:22:27 INFO  Testbase:98 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-11-01 15:22:29 INFO  LoginPage:41 - in loginpage
+2017-11-01 15:22:29 INFO  LoginPage:42 - megha@gmail.com and password
+2017-11-01 15:22:29 INFO  LoginPage:43 - in loginpage
+2017-11-01 15:22:29 INFO  Testbase:126 - scrolling down the webpage
+2017-11-01 15:22:29 INFO  Testbase:98 - for element name:email the locatortype isname the locator value is  email
+2017-11-01 15:22:29 INFO  Testbase:98 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-11-01 15:22:29 INFO  Mouseaction:28 - perform random click
+2017-11-01 15:22:30 INFO  Testbase:98 - for element xpath://*[@name='SubmitLogin'] the locatortype isxpath the locator value is  //*[@name='SubmitLogin']
+2017-11-01 15:22:32 INFO  Testbase:98 - for element xpath://*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')] the locatortype isxpath the locator value is  //*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')]
+2017-11-01 15:22:32 INFO  Testbase:163 - element is displayedWelcome to your account. Here you can manage all of your personal information and orders.
+2017-11-01 15:22:32 INFO  Testbase:98 - for element xpath://*[@title='Log me out'] the locatortype isxpath the locator value is  //*[@title='Log me out']
+2017-11-01 15:22:34 INFO  Homepage:33 - in homepage
+2017-11-01 15:22:34 INFO  Testbase:98 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-11-01 15:22:35 INFO  LoginPage:41 - in loginpage
+2017-11-01 15:22:35 INFO  LoginPage:42 - megha08jan@gmail.com and password
+2017-11-01 15:22:35 INFO  LoginPage:43 - in loginpage
+2017-11-01 15:22:35 INFO  Testbase:126 - scrolling down the webpage
+2017-11-01 15:22:35 INFO  Testbase:98 - for element name:email the locatortype isname the locator value is  email
+2017-11-01 15:22:35 INFO  Testbase:98 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-11-01 15:22:36 INFO  Mouseaction:28 - perform random click
+2017-11-01 15:22:37 INFO  Testbase:98 - for element xpath://*[@name='SubmitLogin'] the locatortype isxpath the locator value is  //*[@name='SubmitLogin']
+2017-11-01 15:22:38 INFO  Testbase:98 - for element xpath://*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')] the locatortype isxpath the locator value is  //*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')]
+2017-11-01 15:22:38 INFO  Testbase:163 - element is displayedWelcome to your account. Here you can manage all of your personal information and orders.
+2017-11-01 15:22:38 INFO  Testbase:98 - for element xpath://*[@title='Log me out'] the locatortype isxpath the locator value is  //*[@title='Log me out']
+2017-11-01 15:23:25 INFO  Testbase:76 - browser is loadedchrome
+2017-11-01 15:23:36 INFO  Testbase:86 - url is loadedhttp://automationpractice.com/index.php?
+2017-11-01 15:23:45 INFO  TC001:33 - [[Ljava.lang.String;@7f6f61c8
+2017-11-01 15:23:45 INFO  Homepage:33 - in homepage
+2017-11-01 15:23:45 INFO  Testbase:98 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-11-01 15:23:47 INFO  LoginPage:41 - in loginpage
+2017-11-01 15:23:47 INFO  LoginPage:42 - megha@gmail.com and password
+2017-11-01 15:23:47 INFO  LoginPage:43 - in loginpage
+2017-11-01 15:23:47 INFO  Testbase:126 - scrolling down the webpage
+2017-11-01 15:23:47 INFO  Testbase:98 - for element name:email the locatortype isname the locator value is  email
+2017-11-01 15:23:47 INFO  Testbase:98 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-11-01 15:23:47 INFO  Mouseaction:28 - perform random click
+2017-11-01 15:23:49 INFO  Testbase:98 - for element xpath://*[@name='SubmitLogin'] the locatortype isxpath the locator value is  //*[@name='SubmitLogin']
+2017-11-01 15:23:51 INFO  Testbase:98 - for element xpath://*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')] the locatortype isxpath the locator value is  //*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')]
+2017-11-01 15:23:51 INFO  Testbase:163 - element is displayedWelcome to your account. Here you can manage all of your personal information and orders.
+2017-11-01 15:23:51 INFO  Testbase:98 - for element xpath://*[@title='Log me out'] the locatortype isxpath the locator value is  //*[@title='Log me out']
+2017-11-01 15:23:53 INFO  Homepage:33 - in homepage
+2017-11-01 15:23:53 INFO  Testbase:98 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-11-01 15:23:54 INFO  LoginPage:41 - in loginpage
+2017-11-01 15:23:54 INFO  LoginPage:42 - megha08jan@gmail.com and password
+2017-11-01 15:23:54 INFO  LoginPage:43 - in loginpage
+2017-11-01 15:23:54 INFO  Testbase:126 - scrolling down the webpage
+2017-11-01 15:23:54 INFO  Testbase:98 - for element name:email the locatortype isname the locator value is  email
+2017-11-01 15:23:54 INFO  Testbase:98 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-11-01 15:23:55 INFO  Mouseaction:28 - perform random click
+2017-11-01 15:23:56 INFO  Testbase:98 - for element xpath://*[@name='SubmitLogin'] the locatortype isxpath the locator value is  //*[@name='SubmitLogin']
+2017-11-01 15:23:57 INFO  Testbase:98 - for element xpath://*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')] the locatortype isxpath the locator value is  //*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')]
+2017-11-01 15:23:57 INFO  Testbase:163 - element is displayedWelcome to your account. Here you can manage all of your personal information and orders.
+2017-11-01 15:23:57 INFO  Testbase:98 - for element xpath://*[@title='Log me out'] the locatortype isxpath the locator value is  //*[@title='Log me out']
+2017-11-01 15:30:58 INFO  Testbase:76 - browser is loadedchrome
+2017-11-01 15:31:11 INFO  Testbase:86 - url is loadedhttp://automationpractice.com/index.php?
+2017-11-01 15:31:23 INFO  TC001:33 - [[Ljava.lang.String;@7f6f61c8
+2017-11-01 15:31:24 INFO  Homepage:33 - in homepage
+2017-11-01 15:31:24 INFO  Testbase:98 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-11-01 15:31:26 INFO  LoginPage:41 - in loginpage
+2017-11-01 15:31:26 INFO  LoginPage:42 - megha@gmail.com and password
+2017-11-01 15:31:26 INFO  LoginPage:43 - in loginpage
+2017-11-01 15:31:26 INFO  Testbase:126 - scrolling down the webpage
+2017-11-01 15:31:26 INFO  Testbase:98 - for element name:email the locatortype isname the locator value is  email
+2017-11-01 15:31:26 INFO  Testbase:98 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-11-01 15:31:26 INFO  Mouseaction:28 - perform random click
+2017-11-01 15:31:27 INFO  Testbase:98 - for element xpath://*[@name='SubmitLogin'] the locatortype isxpath the locator value is  //*[@name='SubmitLogin']
+2017-11-01 15:31:29 INFO  Testbase:98 - for element xpath://*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')] the locatortype isxpath the locator value is  //*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')]
+2017-11-01 15:31:29 INFO  Testbase:98 - for element xpath://*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')] the locatortype isxpath the locator value is  //*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')]
+2017-11-01 15:31:29 INFO  Testbase:16 - element is displayedWelcome to your account. Here you can manage all of your personal information and orders.
+2017-11-01 15:31:29 INFO  Testbase:98 - for element xpath://*[@title='Log me out'] the locatortype isxpath the locator value is  //*[@title='Log me out']
+2017-11-01 15:31:31 INFO  Homepage:33 - in homepage
+2017-11-01 15:31:31 INFO  Testbase:98 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-11-01 15:31:33 INFO  LoginPage:41 - in loginpage
+2017-11-01 15:31:33 INFO  LoginPage:42 - megha08jan@gmail.com and password
+2017-11-01 15:31:33 INFO  LoginPage:43 - in loginpage
+2017-11-01 15:31:33 INFO  Testbase:126 - scrolling down the webpage
+2017-11-01 15:31:33 INFO  Testbase:98 - for element name:email the locatortype isname the locator value is  email
+2017-11-01 15:31:33 INFO  Testbase:98 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-11-01 15:31:33 INFO  Mouseaction:28 - perform random click
+2017-11-01 15:31:34 INFO  Testbase:98 - for element xpath://*[@name='SubmitLogin'] the locatortype isxpath the locator value is  //*[@name='SubmitLogin']
+2017-11-01 15:31:36 INFO  Testbase:98 - for element xpath://*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')] the locatortype isxpath the locator value is  //*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')]
+2017-11-01 15:31:36 INFO  Testbase:98 - for element xpath://*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')] the locatortype isxpath the locator value is  //*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')]
+2017-11-01 15:31:36 INFO  Testbase:16 - element is displayedWelcome to your account. Here you can manage all of your personal information and orders.
+2017-11-01 15:31:36 INFO  Testbase:98 - for element xpath://*[@title='Log me out'] the locatortype isxpath the locator value is  //*[@title='Log me out']
+2017-11-01 15:32:38 INFO  Testbase:76 - browser is loadedchrome
+2017-11-01 15:32:51 INFO  Testbase:86 - url is loadedhttp://automationpractice.com/index.php?
+2017-11-01 15:33:06 INFO  TC001:33 - [[Ljava.lang.String;@7f6f61c8
+2017-11-01 15:33:06 INFO  Homepage:33 - in homepage
+2017-11-01 15:33:06 INFO  Testbase:98 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-11-01 15:33:08 INFO  LoginPage:41 - in loginpage
+2017-11-01 15:33:08 INFO  LoginPage:42 - megha@gmail.com and password
+2017-11-01 15:33:08 INFO  LoginPage:43 - in loginpage
+2017-11-01 15:33:08 INFO  Testbase:126 - scrolling down the webpage
+2017-11-01 15:33:08 INFO  Testbase:98 - for element name:email the locatortype isname the locator value is  email
+2017-11-01 15:33:08 INFO  Testbase:98 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-11-01 15:33:09 INFO  Mouseaction:28 - perform random click
+2017-11-01 15:33:10 INFO  Testbase:98 - for element xpath://*[@name='SubmitLogin'] the locatortype isxpath the locator value is  //*[@name='SubmitLogin']
+2017-11-01 15:33:11 INFO  Testbase:98 - for element xpath://*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders')] the locatortype isxpath the locator value is  //*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders')]
+2017-11-01 15:33:12 INFO  Testbase:98 - for element xpath://*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders')] the locatortype isxpath the locator value is  //*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders')]
+2017-11-01 15:33:12 INFO  Testbase:16 - element is displayedWelcome to your account. Here you can manage all of your personal information and orders.
+2017-11-01 15:33:12 INFO  Testbase:98 - for element xpath://*[@title='Log me out'] the locatortype isxpath the locator value is  //*[@title='Log me out']
+2017-11-01 15:33:14 INFO  Homepage:33 - in homepage
+2017-11-01 15:33:14 INFO  Testbase:98 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-11-01 15:33:15 INFO  LoginPage:41 - in loginpage
+2017-11-01 15:33:15 INFO  LoginPage:42 - megha08jan@gmail.com and password
+2017-11-01 15:33:15 INFO  LoginPage:43 - in loginpage
+2017-11-01 15:33:15 INFO  Testbase:126 - scrolling down the webpage
+2017-11-01 15:33:15 INFO  Testbase:98 - for element name:email the locatortype isname the locator value is  email
+2017-11-01 15:33:15 INFO  Testbase:98 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-11-01 15:33:15 INFO  Mouseaction:28 - perform random click
+2017-11-01 15:33:16 INFO  Testbase:98 - for element xpath://*[@name='SubmitLogin'] the locatortype isxpath the locator value is  //*[@name='SubmitLogin']
+2017-11-01 15:33:18 INFO  Testbase:98 - for element xpath://*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders')] the locatortype isxpath the locator value is  //*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders')]
+2017-11-01 15:33:18 INFO  Testbase:98 - for element xpath://*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders')] the locatortype isxpath the locator value is  //*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders')]
+2017-11-01 15:33:18 INFO  Testbase:16 - element is displayedWelcome to your account. Here you can manage all of your personal information and orders.
+2017-11-01 15:33:18 INFO  Testbase:98 - for element xpath://*[@title='Log me out'] the locatortype isxpath the locator value is  //*[@title='Log me out']
+2017-11-01 15:40:28 INFO  Testbase:76 - browser is loadedchrome
+2017-11-01 15:40:45 INFO  Testbase:86 - url is loadedhttp://automationpractice.com/index.php?
+2017-11-01 15:45:47 INFO  TC001:33 - [[Ljava.lang.String;@73173f63
+2017-11-01 15:46:29 INFO  Testbase:76 - browser is loadedchrome
+2017-11-01 15:46:33 INFO  Testbase:86 - url is loadedhttp://automationpractice.com/index.php?
+2017-11-01 15:46:39 INFO  TC001:33 - [[Ljava.lang.String;@7f6f61c8
+2017-11-01 15:46:39 INFO  Homepage:33 - in homepage
+2017-11-01 15:46:39 INFO  Testbase:98 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-11-01 15:46:41 INFO  LoginPage:41 - in loginpage
+2017-11-01 15:46:41 INFO  LoginPage:42 - megha@gmail.com and password
+2017-11-01 15:46:41 INFO  LoginPage:43 - in loginpage
+2017-11-01 15:46:41 INFO  Testbase:126 - scrolling down the webpage
+2017-11-01 15:46:41 INFO  Testbase:98 - for element name:email the locatortype isname the locator value is  email
+2017-11-01 15:46:41 INFO  Testbase:98 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-11-01 15:46:41 INFO  Mouseaction:28 - perform random click
+2017-11-01 15:46:43 INFO  Testbase:98 - for element xpath://*[@name='SubmitLogin'] the locatortype isxpath the locator value is  //*[@name='SubmitLogin']
+2017-11-01 15:46:44 INFO  Testbase:98 - for element xpath://*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')] the locatortype isxpath the locator value is  //*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')]
+2017-11-01 15:46:44 INFO  Testbase:98 - for element xpath://*[@title='Log me out'] the locatortype isxpath the locator value is  //*[@title='Log me out']
+2017-11-01 15:46:46 INFO  Homepage:33 - in homepage
+2017-11-01 15:46:46 INFO  Testbase:98 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-11-01 15:46:47 INFO  LoginPage:41 - in loginpage
+2017-11-01 15:46:47 INFO  LoginPage:42 - megha08jan@gmail.com and password
+2017-11-01 15:46:47 INFO  LoginPage:43 - in loginpage
+2017-11-01 15:46:47 INFO  Testbase:126 - scrolling down the webpage
+2017-11-01 15:46:47 INFO  Testbase:98 - for element name:email the locatortype isname the locator value is  email
+2017-11-01 15:46:48 INFO  Testbase:98 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-11-01 15:46:48 INFO  Mouseaction:28 - perform random click
+2017-11-01 15:46:49 INFO  Testbase:98 - for element xpath://*[@name='SubmitLogin'] the locatortype isxpath the locator value is  //*[@name='SubmitLogin']
+2017-11-01 15:46:50 INFO  Testbase:98 - for element xpath://*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')] the locatortype isxpath the locator value is  //*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')]
+2017-11-01 15:46:50 INFO  Testbase:98 - for element xpath://*[@title='Log me out'] the locatortype isxpath the locator value is  //*[@title='Log me out']
+2017-11-01 15:47:21 INFO  Testbase:76 - browser is loadedchrome
+2017-11-01 15:47:24 INFO  Testbase:86 - url is loadedhttp://automationpractice.com/index.php?
+2017-11-01 15:47:31 INFO  TC001:33 - [[Ljava.lang.String;@7f6f61c8
+2017-11-01 15:47:31 INFO  Homepage:33 - in homepage
+2017-11-01 15:47:31 INFO  Testbase:98 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-11-01 15:47:33 INFO  LoginPage:41 - in loginpage
+2017-11-01 15:47:33 INFO  LoginPage:42 - megha@gmail.com and password
+2017-11-01 15:47:33 INFO  LoginPage:43 - in loginpage
+2017-11-01 15:47:33 INFO  Testbase:126 - scrolling down the webpage
+2017-11-01 15:47:33 INFO  Testbase:98 - for element name:email the locatortype isname the locator value is  email
+2017-11-01 15:47:33 INFO  Testbase:98 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-11-01 15:47:33 INFO  Mouseaction:28 - perform random click
+2017-11-01 15:47:34 INFO  Testbase:98 - for element xpath://*[@name='SubmitLogin'] the locatortype isxpath the locator value is  //*[@name='SubmitLogin']
+2017-11-01 15:47:36 INFO  Testbase:98 - for element xpath://*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')] the locatortype isxpath the locator value is  //*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')]
+2017-11-01 15:47:37 INFO  Homepage:33 - in homepage
+2017-11-01 15:47:37 INFO  Testbase:98 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-11-01 15:50:51 INFO  Testbase:76 - browser is loadedchrome
+2017-11-01 15:50:55 INFO  Testbase:86 - url is loadedhttp://automationpractice.com/index.php?
+2017-11-01 15:51:05 INFO  TC001:33 - [[Ljava.lang.String;@7f6f61c8
+2017-11-01 15:51:05 INFO  Homepage:33 - in homepage
+2017-11-01 15:51:05 INFO  Testbase:98 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-11-01 15:51:07 INFO  LoginPage:41 - in loginpage
+2017-11-01 15:51:07 INFO  LoginPage:42 - megha@gmail.com and password
+2017-11-01 15:51:07 INFO  LoginPage:43 - in loginpage
+2017-11-01 15:51:07 INFO  Testbase:126 - scrolling down the webpage
+2017-11-01 15:51:07 INFO  Testbase:98 - for element name:email the locatortype isname the locator value is  email
+2017-11-01 15:51:07 INFO  Testbase:98 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-11-01 15:51:07 INFO  Mouseaction:28 - perform random click
+2017-11-01 15:51:09 INFO  Testbase:98 - for element xpath://*[@name='SubmitLogin'] the locatortype isxpath the locator value is  //*[@name='SubmitLogin']
+2017-11-01 15:51:10 INFO  Testbase:98 - for element xpath://*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')] the locatortype isxpath the locator value is  //*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')]
+2017-11-01 15:51:10 INFO  Testbase:98 - for element xpath://*[@title='Log me out'] the locatortype isxpath the locator value is  //*[@title='Log me out']
+2017-11-01 15:51:12 INFO  Homepage:33 - in homepage
+2017-11-01 15:51:12 INFO  Testbase:98 - for element xpath://*[contains(text(),'Sign in')] the locatortype isxpath the locator value is  //*[contains(text(),'Sign in')]
+2017-11-01 15:51:13 INFO  LoginPage:41 - in loginpage
+2017-11-01 15:51:13 INFO  LoginPage:42 - megha08jan@gmail.com and password
+2017-11-01 15:51:13 INFO  LoginPage:43 - in loginpage
+2017-11-01 15:51:13 INFO  Testbase:126 - scrolling down the webpage
+2017-11-01 15:51:13 INFO  Testbase:98 - for element name:email the locatortype isname the locator value is  email
+2017-11-01 15:51:13 INFO  Testbase:98 - for element xpath://*[@name='passwd'] the locatortype isxpath the locator value is  //*[@name='passwd']
+2017-11-01 15:51:14 INFO  Mouseaction:28 - perform random click
+2017-11-01 15:51:15 INFO  Testbase:98 - for element xpath://*[@name='SubmitLogin'] the locatortype isxpath the locator value is  //*[@name='SubmitLogin']
+2017-11-01 15:51:16 INFO  Testbase:98 - for element xpath://*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')] the locatortype isxpath the locator value is  //*[contains(text(),'Welcome to your account. Here you can manage all of your personal information and orders.')]
+2017-11-01 15:51:16 INFO  Testbase:98 - for element xpath://*[@title='Log me out'] the locatortype isxpath the locator value is  //*[@title='Log me out']
