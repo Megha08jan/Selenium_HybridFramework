@@ -3,12 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="hybridFramework.uiautomation.loginpage.TC001">
+      <class name="hybridFramework.uiautomation.productpage.TC001_SelectProduct">
         <methods>
-          <include name="logintosite" invocation-numbers="0 1"/>
           <include name="init"/>
+          <include name="productdetails" invocation-numbers="1 2 3 4 5 6"/>
+          <include name="logintowebsite" invocation-numbers="1"/>
         </methods>
-      </class> <!-- hybridFramework.uiautomation.loginpage.TC001 -->
+      </class> <!-- hybridFramework.uiautomation.productpage.TC001_SelectProduct -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

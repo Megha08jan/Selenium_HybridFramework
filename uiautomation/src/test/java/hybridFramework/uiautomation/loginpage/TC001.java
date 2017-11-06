@@ -29,7 +29,9 @@ public class TC001 extends Testbase{
 	@DataProvider(name = "Logindetails")
 
 	public Object[][] loaddatafromexcel() throws IOException{
-		Object[][] data = getdata();
+		String path = System.getProperty("user.dir")+"\\src\\main\\java\\hybridFramework\\uiautomation\\data\\Testdata1.xlsx";
+		String sheetname= "LoginDetails";
+		Object[][] data = getdata(path, sheetname);
 		log.info(data);
 		return data;
 

@@ -14,12 +14,12 @@ import org.testng.annotations.Test;
 public class ExcelRead {
 
 	@Test
-	public String[][] readdata() throws IOException{
+	public String[][] readdata(String path,String sheetname) throws IOException{
 
-		File file = new File(System.getProperty("user.dir")+"\\src\\main\\java\\hybridFramework\\uiautomation\\data\\Testdata1.xlsx");
+		File file = new File(path);
 		FileInputStream fileinputstream = new FileInputStream(file);
 		XSSFWorkbook workbook = new XSSFWorkbook(fileinputstream);
-		XSSFSheet sheet = workbook.getSheet("LoginDetails");
+		XSSFSheet sheet = workbook.getSheet(sheetname);
 		XSSFRow row ;
 		XSSFCell cell ;
 
@@ -46,9 +46,5 @@ public class ExcelRead {
 	}
 
 
-	public static void main(String[] args) throws IOException{
 
-		ExcelRead e = new ExcelRead();
-		e.readdata();
-	}
 }

@@ -28,6 +28,11 @@ public class Mouseaction extends Testbase {
 		log.info("perform random click");
 	action.click().build().perform();
 	}
+	
+	public void clickonwebelement(WebElement target){
+		log.info("click on "+target.toString());	
+		action.click(target).build().perform();
+	}
 
 
 }

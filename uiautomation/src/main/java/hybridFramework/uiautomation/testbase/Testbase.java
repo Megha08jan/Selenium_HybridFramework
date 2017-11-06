@@ -6,8 +6,10 @@ import hybridFramework.uiautomation.mouseactions.Mouseaction;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
+import java.util.Iterator;
 import java.util.List;
 import java.util.Properties;
+import java.util.Set;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.log4j.Logger;
@@ -154,18 +156,26 @@ public class Testbase {
 
 	}
 
-	@Test
-	public String[][] getdata() throws IOException{
+
+	public String[][] getdata(String path, String sheetname) throws IOException{
 
 		excelread = new ExcelRead();
 
-		String[][] dataset = excelread.readdata();	     
+		String[][] dataset = excelread.readdata(path,sheetname);	     
 
 		return dataset;
 
 	}
 
+	public Iterator<String> windowhandles(){
 
+		Set<String> windows	= driver.getWindowHandles();
+
+		java.util.Iterator<String> itr = windows.iterator();
+		
+		return itr;
+
+	}
 
 }
 
