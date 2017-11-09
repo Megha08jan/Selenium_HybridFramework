@@ -6,35 +6,54 @@ import hybridFramework.uiautomation.mouseactions.Mouseaction;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
+import java.lang.reflect.Method;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Properties;
 import java.util.Set;
 import java.util.concurrent.TimeUnit;
 
+import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.Select;
+import org.testng.ITestResult;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
+
+import com.relevantcodes.extentreports.ExtentReports;
+import com.relevantcodes.extentreports.ExtentTest;
+import com.relevantcodes.extentreports.LogStatus;
 
 public class Testbase {
 
 	public static final Logger log = Logger.getLogger(Testbase.class.getName());
-	public static WebDriver driver;
+	public WebDriver driver;
 	public static Properties loadinfo;
+	public static ExtentReports extent;
+	public static ExtentTest test;
+	public ITestResult result;
 	File file;
 	FileInputStream fileinputstream;
 	ExcelRead excelread;
 	Mouseaction mouseaction;
 
+
 	public void setup() throws Exception{
 		loadfiles();
+		extent = new ExtentReports(System.getProperty("user.dir")+"\\src\\main\\java\\hybridFramework\\uiautomation\\reports\\test.html",false);
 		getbrowser((String) loadinfo.get("browser"));
 		geturl((String) loadinfo.get("url"));
 
@@ -92,7 +111,7 @@ public class Testbase {
 	}
 
 
-	public WebElement getlocator(String webelement) throws Exception{
+	public WebElement getlocator(WebDriver driver, String webelement) throws Exception{
 		String element1 = (String) loadinfo.get(webelement);
 		String[] elementvalues = element1.split(":");
 		String locatortype = elementvalues[0];
@@ -108,7 +127,7 @@ public class Testbase {
 			throw new Exception("Unknown locator type '" + locatortype + "'");
 	}
 
-	public List<WebElement> getlocators(String webelement) throws Exception{
+	public List<WebElement> getlocators(WebDriver driver,String webelement) throws Exception{
 
 		String element1 = (String) loadinfo.get(webelement);
 		String[] elementvalues = element1.split(":");
@@ -124,15 +143,15 @@ public class Testbase {
 
 	}
 
-	public void scrollwebpage(int x, int y){
+	public void scrollwebpage(WebDriver driver,int x, int y){
 		log.info("scrolling down the webpage");
 		JavascriptExecutor jse = ((JavascriptExecutor)driver);
 		jse.executeScript("scrollTo("+x+","+y+")"); 
 	}
 
-	public WebElement selectradios(String webelement, String value) throws Exception{
+	public WebElement selectradios(WebDriver driver,String webelement, String value) throws Exception{
 
-		List<WebElement> list = getlocators(webelement);
+		List<WebElement> list = getlocators(driver,webelement);
 		WebElement radio = null;
 		for(int i =0; i<list.size();i++){
 
@@ -145,11 +164,9 @@ public class Testbase {
 
 	}
 
-	public void dropdownselection(String webelement, int index) throws Exception{
+	public void dropdownselection(WebDriver driver,String webelement, int index) throws Exception{
 
-
-
-		Select dropdown = new Select(getlocator(webelement));
+		Select dropdown = new Select(getlocator(driver,webelement));
 		log.info("selection dropdown");
 		dropdown.selectByIndex(index);
 
@@ -167,17 +184,75 @@ public class Testbase {
 
 	}
 
-	public Iterator<String> windowhandles(){
+	public Iterator<String> windowhandles(WebDriver driver){
 
 		Set<String> windows	= driver.getWindowHandles();
 
 		java.util.Iterator<String> itr = windows.iterator();
-		
+
 		return itr;
 
 	}
 
+	public String capturescreenshot(String Filename) throws IOException{
+		if(Filename == ""){
+			Filename = "blank";
+		}
+		Calendar calender = Calendar.getInstance();
+		SimpleDateFormat formater = new SimpleDateFormat("dd_MM_YYYY_hh_mm_ss");
+		File srcfile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+		String imagelocation = new File(System.getProperty("user.dir")).getAbsolutePath()+"\\src\\main\\java\\hybridFramework\\uiautomation\\screenshots\\";
+		File destfile = new File(imagelocation+Filename+"_"+formater.format(calender.getTime()));
+		FileUtils.copyFile(srcfile, destfile);
+		return destfile.toString();
+	}
+
+	public void getresult(ITestResult result) throws IOException{
+
+		if(result.getStatus()==ITestResult.SUCCESS){
+
+			test.log(LogStatus.PASS,result.getName()+ "test is pass",test.addScreenCapture(capturescreenshot("")));
+
+		}
+		else if(result.getStatus()==ITestResult.SKIP){
+
+			test.log(LogStatus.SKIP,result.getName()+ "test is skipped and reason is"+result.getThrowable());
+		}
+		else if(result.getStatus()==ITestResult.FAILURE){
+			test.log(LogStatus.ERROR, result.getName()+"test is failed due to"+result.getThrowable());
+			test.log(LogStatus.FAIL,test.addScreenCapture(capturescreenshot("")));
+		}
+
+
+	}
+	@AfterMethod()
+	public void aftermethod(ITestResult result) throws IOException{
+
+		getresult(result);
+	}
+
+	@BeforeMethod()
+	public void beformethod(Method result){
+		test = extent.startTest(result.getName());
+		test.log(LogStatus.INFO, result.getName()+"test started");
+
+	}
+
+	@AfterClass()
+	public void endtest(){
+		closebrowser();
+	}
+
+	public void closebrowser(){
+
+		driver.quit();
+		log.info("browser is closed");
+		extent.endTest(test);
+		extent.flush();
+	}
 }
+
+
 
 
 

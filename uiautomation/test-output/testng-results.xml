@@ -1,17 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="7" failed="0" ignored="0" total="9" passed="2">
+<testng-results skipped="8" failed="0" ignored="0" total="12" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="27593" started-at="2017-11-06T14:19:45Z" finished-at="2017-11-06T14:20:12Z">
+  <suite name="Suite" duration-ms="114216" started-at="2017-11-09T15:58:16Z" finished-at="2017-11-09T16:00:10Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="27593" started-at="2017-11-06T14:19:45Z" finished-at="2017-11-06T14:20:12Z">
-      <class name="hybridFramework.uiautomation.productpage.TC001_SelectProduct">
-        <test-method status="PASS" signature="init()[pri:0, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@e45f292]" name="init" is-config="true" duration-ms="13675" started-at="2017-11-06T19:49:45Z" finished-at="2017-11-06T19:49:58Z">
+    <test name="Test" duration-ms="114216" started-at="2017-11-09T15:58:16Z" finished-at="2017-11-09T16:00:10Z">
+      <class name="hybridFramework.uiautomation.registrationpage.TC003">
+        <test-method status="PASS" signature="init()[pri:0, instance:hybridFramework.uiautomation.registrationpage.TC003@cb644e]" name="init" is-config="true" duration-ms="74517" started-at="2017-11-09T21:28:16Z" finished-at="2017-11-09T21:29:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="logintowebsite(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@e45f292]" name="logintowebsite" duration-ms="5341" started-at="2017-11-06T19:50:01Z" data-provider="Login" finished-at="2017-11-06T19:50:06Z">
+        <test-method status="PASS" signature="beformethod(java.lang.reflect.Method)[pri:0, instance:hybridFramework.uiautomation.registrationpage.TC003@cb644e]" name="beformethod" is-config="true" duration-ms="1" started-at="2017-11-09T21:29:46Z" finished-at="2017-11-09T21:29:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void hybridFramework.uiautomation.registrationpage.TC003.registrationPage(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beformethod -->
+        <test-method status="PASS" signature="registrationPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:hybridFramework.uiautomation.registrationpage.TC003@cb644e]" name="registrationPage" duration-ms="19330" started-at="2017-11-09T21:29:46Z" data-provider="registrationdetails" finished-at="2017-11-09T21:30:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sushant2@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sushant ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Jain]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[megha]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[jain]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[amsterdam]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[udaipur]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[20345]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[0645072609]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[rajasthan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationPage -->
+        <test-method status="PASS" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:hybridFramework.uiautomation.registrationpage.TC003@cb644e]" name="aftermethod" is-config="true" duration-ms="930" started-at="2017-11-09T21:30:06Z" finished-at="2017-11-09T21:30:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=registrationPage status=SUCCESS method=TC003.registrationPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:hybridFramework.uiautomation.registrationpage.TC003@cb644e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="endtest()[pri:0, instance:hybridFramework.uiautomation.registrationpage.TC003@cb644e]" name="endtest" is-config="true" duration-ms="1988" started-at="2017-11-09T21:30:07Z" finished-at="2017-11-09T21:30:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endtest -->
+      </class> <!-- hybridFramework.uiautomation.registrationpage.TC003 -->
+      <class name="hybridFramework.uiautomation.productpage.TC001_SelectProduct">
+        <test-method status="PASS" signature="init()[pri:0, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472]" name="init" is-config="true" duration-ms="74517" started-at="2017-11-09T21:28:16Z" finished-at="2017-11-09T21:29:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="beformethod(java.lang.reflect.Method)[pri:0, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472]" name="beformethod" is-config="true" duration-ms="2" started-at="2017-11-09T21:29:46Z" finished-at="2017-11-09T21:29:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void hybridFramework.uiautomation.productpage.TC001_SelectProduct.logintowebsite(java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beformethod -->
+        <test-method status="PASS" signature="logintowebsite(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472]" name="logintowebsite" duration-ms="8647" started-at="2017-11-09T21:29:46Z" data-provider="Login" finished-at="2017-11-09T21:29:55Z">
           <params>
             <param index="0">
               <value>
@@ -32,7 +156,29 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logintowebsite -->
-        <test-method status="SKIP" signature="logintowebsite(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@e45f292]" name="logintowebsite" duration-ms="2" started-at="2017-11-06T19:50:06Z" data-provider="Login" finished-at="2017-11-06T19:50:06Z">
+        <test-method status="PASS" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472]" name="aftermethod" is-config="true" duration-ms="2087" started-at="2017-11-09T21:29:55Z" finished-at="2017-11-09T21:29:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=logintowebsite status=SUCCESS method=TC001_SelectProduct.logintowebsite(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beformethod(java.lang.reflect.Method)[pri:0, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472]" name="beformethod" is-config="true" duration-ms="1" started-at="2017-11-09T21:29:57Z" finished-at="2017-11-09T21:29:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void hybridFramework.uiautomation.productpage.TC001_SelectProduct.logintowebsite(java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beformethod -->
+        <test-method status="SKIP" signature="logintowebsite(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472]" name="logintowebsite" duration-ms="8" started-at="2017-11-09T21:29:57Z" data-provider="Login" finished-at="2017-11-09T21:29:57Z">
           <params>
             <param index="0">
               <value>
@@ -67,28 +213,38 @@
 	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
 	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
 	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
-	at org.testng.TestRunner.privateRun(TestRunner.java:756)
-	at org.testng.TestRunner.run(TestRunner.java:610)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
-	at org.testng.TestNG.runSuites(TestNG.java:1133)
-	at org.testng.TestNG.run(TestNG.java:1104)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
 ]]>
             </full-stacktrace>
           </exception> <!-- org.testng.SkipException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logintowebsite -->
-        <test-method status="PASS" signature="productdetails(java.lang.String, java.lang.String)[pri:1, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@e45f292]" name="productdetails" duration-ms="6042" started-at="2017-11-06T19:50:06Z" data-provider="products" finished-at="2017-11-06T19:50:12Z">
+        <test-method status="PASS" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472]" name="aftermethod" is-config="true" duration-ms="0" started-at="2017-11-09T21:29:57Z" finished-at="2017-11-09T21:29:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=logintowebsite status=SKIP method=TC001_SelectProduct.logintowebsite(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beformethod(java.lang.reflect.Method)[pri:0, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472]" name="beformethod" is-config="true" duration-ms="1" started-at="2017-11-09T21:29:57Z" finished-at="2017-11-09T21:29:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void hybridFramework.uiautomation.productpage.TC001_SelectProduct.productdetails(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beformethod -->
+        <test-method status="PASS" signature="productdetails(java.lang.String, java.lang.String)[pri:1, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472]" name="productdetails" duration-ms="9825" started-at="2017-11-09T21:29:57Z" data-provider="products" finished-at="2017-11-09T21:30:07Z">
           <params>
             <param index="0">
               <value>
@@ -104,7 +260,29 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- productdetails -->
-        <test-method status="SKIP" signature="productdetails(java.lang.String, java.lang.String)[pri:1, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@e45f292]" name="productdetails" duration-ms="1" started-at="2017-11-06T19:50:12Z" data-provider="products" finished-at="2017-11-06T19:50:12Z">
+        <test-method status="PASS" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472]" name="aftermethod" is-config="true" duration-ms="1677" started-at="2017-11-09T21:30:07Z" finished-at="2017-11-09T21:30:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=productdetails status=SUCCESS method=TC001_SelectProduct.productdetails(java.lang.String, java.lang.String)[pri:1, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beformethod(java.lang.reflect.Method)[pri:0, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472]" name="beformethod" is-config="true" duration-ms="1" started-at="2017-11-09T21:30:09Z" finished-at="2017-11-09T21:30:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void hybridFramework.uiautomation.productpage.TC001_SelectProduct.productdetails(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beformethod -->
+        <test-method status="SKIP" signature="productdetails(java.lang.String, java.lang.String)[pri:1, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472]" name="productdetails" duration-ms="1" started-at="2017-11-09T21:30:09Z" data-provider="products" finished-at="2017-11-09T21:30:09Z">
           <params>
             <param index="0">
               <value>
@@ -123,7 +301,7 @@
             </message>
             <full-stacktrace>
               <![CDATA[org.testng.SkipException: masrked as no run
-	at hybridFramework.uiautomation.productpage.TC001_SelectProduct.productdetails(TC001_SelectProduct.java:80)
+	at hybridFramework.uiautomation.productpage.TC001_SelectProduct.productdetails(TC001_SelectProduct.java:82)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -134,28 +312,27 @@
 	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
 	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
 	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
-	at org.testng.TestRunner.privateRun(TestRunner.java:756)
-	at org.testng.TestRunner.run(TestRunner.java:610)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
-	at org.testng.TestNG.runSuites(TestNG.java:1133)
-	at org.testng.TestNG.run(TestNG.java:1104)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
 ]]>
             </full-stacktrace>
           </exception> <!-- org.testng.SkipException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- productdetails -->
-        <test-method status="SKIP" signature="productdetails(java.lang.String, java.lang.String)[pri:1, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@e45f292]" name="productdetails" duration-ms="2" started-at="2017-11-06T19:50:12Z" data-provider="products" finished-at="2017-11-06T19:50:12Z">
+        <test-method status="PASS" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472]" name="aftermethod" is-config="true" duration-ms="0" started-at="2017-11-09T21:30:09Z" finished-at="2017-11-09T21:30:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=productdetails status=SKIP method=TC001_SelectProduct.productdetails(java.lang.String, java.lang.String)[pri:1, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="SKIP" signature="productdetails(java.lang.String, java.lang.String)[pri:1, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472]" name="productdetails" duration-ms="2" started-at="2017-11-09T21:30:09Z" data-provider="products" finished-at="2017-11-09T21:30:09Z">
           <params>
             <param index="0">
               <value>
@@ -174,7 +351,7 @@
             </message>
             <full-stacktrace>
               <![CDATA[org.testng.SkipException: masrked as no run
-	at hybridFramework.uiautomation.productpage.TC001_SelectProduct.productdetails(TC001_SelectProduct.java:80)
+	at hybridFramework.uiautomation.productpage.TC001_SelectProduct.productdetails(TC001_SelectProduct.java:82)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -185,28 +362,49 @@
 	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
 	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
 	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
-	at org.testng.TestRunner.privateRun(TestRunner.java:756)
-	at org.testng.TestRunner.run(TestRunner.java:610)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
-	at org.testng.TestNG.runSuites(TestNG.java:1133)
-	at org.testng.TestNG.run(TestNG.java:1104)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
 ]]>
             </full-stacktrace>
           </exception> <!-- org.testng.SkipException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- productdetails -->
-        <test-method status="SKIP" signature="productdetails(java.lang.String, java.lang.String)[pri:1, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@e45f292]" name="productdetails" duration-ms="2" started-at="2017-11-06T19:50:12Z" data-provider="products" finished-at="2017-11-06T19:50:12Z">
+        <test-method status="PASS" signature="beformethod(java.lang.reflect.Method)[pri:0, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472]" name="beformethod" is-config="true" duration-ms="0" started-at="2017-11-09T21:30:09Z" finished-at="2017-11-09T21:30:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void hybridFramework.uiautomation.productpage.TC001_SelectProduct.productdetails(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beformethod -->
+        <test-method status="PASS" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472]" name="aftermethod" is-config="true" duration-ms="1" started-at="2017-11-09T21:30:09Z" finished-at="2017-11-09T21:30:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=productdetails status=SKIP method=TC001_SelectProduct.productdetails(java.lang.String, java.lang.String)[pri:1, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beformethod(java.lang.reflect.Method)[pri:0, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472]" name="beformethod" is-config="true" duration-ms="0" started-at="2017-11-09T21:30:09Z" finished-at="2017-11-09T21:30:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void hybridFramework.uiautomation.productpage.TC001_SelectProduct.productdetails(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beformethod -->
+        <test-method status="SKIP" signature="productdetails(java.lang.String, java.lang.String)[pri:1, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472]" name="productdetails" duration-ms="2" started-at="2017-11-09T21:30:09Z" data-provider="products" finished-at="2017-11-09T21:30:09Z">
           <params>
             <param index="0">
               <value>
@@ -225,7 +423,7 @@
             </message>
             <full-stacktrace>
               <![CDATA[org.testng.SkipException: masrked as no run
-	at hybridFramework.uiautomation.productpage.TC001_SelectProduct.productdetails(TC001_SelectProduct.java:80)
+	at hybridFramework.uiautomation.productpage.TC001_SelectProduct.productdetails(TC001_SelectProduct.java:82)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -236,28 +434,38 @@
 	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
 	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
 	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
-	at org.testng.TestRunner.privateRun(TestRunner.java:756)
-	at org.testng.TestRunner.run(TestRunner.java:610)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
-	at org.testng.TestNG.runSuites(TestNG.java:1133)
-	at org.testng.TestNG.run(TestNG.java:1104)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
 ]]>
             </full-stacktrace>
           </exception> <!-- org.testng.SkipException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- productdetails -->
-        <test-method status="SKIP" signature="productdetails(java.lang.String, java.lang.String)[pri:1, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@e45f292]" name="productdetails" duration-ms="2" started-at="2017-11-06T19:50:12Z" data-provider="products" finished-at="2017-11-06T19:50:12Z">
+        <test-method status="PASS" signature="beformethod(java.lang.reflect.Method)[pri:0, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472]" name="beformethod" is-config="true" duration-ms="1" started-at="2017-11-09T21:30:09Z" finished-at="2017-11-09T21:30:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void hybridFramework.uiautomation.productpage.TC001_SelectProduct.productdetails(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beformethod -->
+        <test-method status="PASS" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472]" name="aftermethod" is-config="true" duration-ms="0" started-at="2017-11-09T21:30:09Z" finished-at="2017-11-09T21:30:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=productdetails status=SKIP method=TC001_SelectProduct.productdetails(java.lang.String, java.lang.String)[pri:1, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="SKIP" signature="productdetails(java.lang.String, java.lang.String)[pri:1, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472]" name="productdetails" duration-ms="2" started-at="2017-11-09T21:30:09Z" data-provider="products" finished-at="2017-11-09T21:30:09Z">
           <params>
             <param index="0">
               <value>
@@ -276,7 +484,7 @@
             </message>
             <full-stacktrace>
               <![CDATA[org.testng.SkipException: masrked as no run
-	at hybridFramework.uiautomation.productpage.TC001_SelectProduct.productdetails(TC001_SelectProduct.java:80)
+	at hybridFramework.uiautomation.productpage.TC001_SelectProduct.productdetails(TC001_SelectProduct.java:82)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -287,28 +495,38 @@
 	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
 	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
 	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
-	at org.testng.TestRunner.privateRun(TestRunner.java:756)
-	at org.testng.TestRunner.run(TestRunner.java:610)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
-	at org.testng.TestNG.runSuites(TestNG.java:1133)
-	at org.testng.TestNG.run(TestNG.java:1104)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
 ]]>
             </full-stacktrace>
           </exception> <!-- org.testng.SkipException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- productdetails -->
-        <test-method status="SKIP" signature="productdetails(java.lang.String, java.lang.String)[pri:1, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@e45f292]" name="productdetails" duration-ms="2" started-at="2017-11-06T19:50:12Z" data-provider="products" finished-at="2017-11-06T19:50:12Z">
+        <test-method status="PASS" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472]" name="aftermethod" is-config="true" duration-ms="0" started-at="2017-11-09T21:30:09Z" finished-at="2017-11-09T21:30:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=productdetails status=SKIP method=TC001_SelectProduct.productdetails(java.lang.String, java.lang.String)[pri:1, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beformethod(java.lang.reflect.Method)[pri:0, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472]" name="beformethod" is-config="true" duration-ms="0" started-at="2017-11-09T21:30:09Z" finished-at="2017-11-09T21:30:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void hybridFramework.uiautomation.productpage.TC001_SelectProduct.productdetails(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beformethod -->
+        <test-method status="SKIP" signature="productdetails(java.lang.String, java.lang.String)[pri:1, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472]" name="productdetails" duration-ms="2" started-at="2017-11-09T21:30:09Z" data-provider="products" finished-at="2017-11-09T21:30:09Z">
           <params>
             <param index="0">
               <value>
@@ -327,7 +545,7 @@
             </message>
             <full-stacktrace>
               <![CDATA[org.testng.SkipException: masrked as no run
-	at hybridFramework.uiautomation.productpage.TC001_SelectProduct.productdetails(TC001_SelectProduct.java:80)
+	at hybridFramework.uiautomation.productpage.TC001_SelectProduct.productdetails(TC001_SelectProduct.java:82)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -338,28 +556,27 @@
 	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
 	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
 	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
-	at org.testng.TestRunner.privateRun(TestRunner.java:756)
-	at org.testng.TestRunner.run(TestRunner.java:610)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
-	at org.testng.TestNG.runSuites(TestNG.java:1133)
-	at org.testng.TestNG.run(TestNG.java:1104)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
 ]]>
             </full-stacktrace>
           </exception> <!-- org.testng.SkipException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- productdetails -->
-        <test-method status="SKIP" signature="productdetails(java.lang.String, java.lang.String)[pri:1, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@e45f292]" name="productdetails" duration-ms="2" started-at="2017-11-06T19:50:12Z" data-provider="products" finished-at="2017-11-06T19:50:12Z">
+        <test-method status="PASS" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472]" name="aftermethod" is-config="true" duration-ms="0" started-at="2017-11-09T21:30:09Z" finished-at="2017-11-09T21:30:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=productdetails status=SKIP method=TC001_SelectProduct.productdetails(java.lang.String, java.lang.String)[pri:1, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="SKIP" signature="productdetails(java.lang.String, java.lang.String)[pri:1, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472]" name="productdetails" duration-ms="1" started-at="2017-11-09T21:30:09Z" data-provider="products" finished-at="2017-11-09T21:30:09Z">
           <params>
             <param index="0">
               <value>
@@ -378,7 +595,7 @@
             </message>
             <full-stacktrace>
               <![CDATA[org.testng.SkipException: masrked as no run
-	at hybridFramework.uiautomation.productpage.TC001_SelectProduct.productdetails(TC001_SelectProduct.java:80)
+	at hybridFramework.uiautomation.productpage.TC001_SelectProduct.productdetails(TC001_SelectProduct.java:82)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -389,28 +606,161 @@
 	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
 	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
 	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
-	at org.testng.TestRunner.privateRun(TestRunner.java:756)
-	at org.testng.TestRunner.run(TestRunner.java:610)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
-	at org.testng.TestNG.runSuites(TestNG.java:1133)
-	at org.testng.TestNG.run(TestNG.java:1104)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
 ]]>
             </full-stacktrace>
           </exception> <!-- org.testng.SkipException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- productdetails -->
+        <test-method status="PASS" signature="beformethod(java.lang.reflect.Method)[pri:0, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472]" name="beformethod" is-config="true" duration-ms="0" started-at="2017-11-09T21:30:09Z" finished-at="2017-11-09T21:30:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void hybridFramework.uiautomation.productpage.TC001_SelectProduct.productdetails(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beformethod -->
+        <test-method status="PASS" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472]" name="aftermethod" is-config="true" duration-ms="1" started-at="2017-11-09T21:30:09Z" finished-at="2017-11-09T21:30:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=productdetails status=SKIP method=TC001_SelectProduct.productdetails(java.lang.String, java.lang.String)[pri:1, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="endtest()[pri:0, instance:hybridFramework.uiautomation.productpage.TC001_SelectProduct@5cb9f472]" name="endtest" is-config="true" duration-ms="1241" started-at="2017-11-09T21:30:09Z" finished-at="2017-11-09T21:30:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endtest -->
       </class> <!-- hybridFramework.uiautomation.productpage.TC001_SelectProduct -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      <class name="hybridFramework.uiautomation.loginpage.TC001">
+        <test-method status="PASS" signature="init()[pri:0, instance:hybridFramework.uiautomation.loginpage.TC001@6e1567f1]" name="init" is-config="true" duration-ms="74811" started-at="2017-11-09T21:28:16Z" finished-at="2017-11-09T21:29:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="beformethod(java.lang.reflect.Method)[pri:0, instance:hybridFramework.uiautomation.loginpage.TC001@6e1567f1]" name="beformethod" is-config="true" duration-ms="2" started-at="2017-11-09T21:29:46Z" finished-at="2017-11-09T21:29:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void hybridFramework.uiautomation.loginpage.TC001.logintosite(java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beformethod -->
+        <test-method status="PASS" signature="logintosite(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:hybridFramework.uiautomation.loginpage.TC001@6e1567f1]" name="logintosite" duration-ms="10966" started-at="2017-11-09T21:29:46Z" data-provider="Logindetails" finished-at="2017-11-09T21:29:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[megha@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintosite -->
+        <test-method status="PASS" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:hybridFramework.uiautomation.loginpage.TC001@6e1567f1]" name="aftermethod" is-config="true" duration-ms="1064" started-at="2017-11-09T21:29:57Z" finished-at="2017-11-09T21:29:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=logintosite status=SUCCESS method=TC001.logintosite(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:hybridFramework.uiautomation.loginpage.TC001@6e1567f1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beformethod(java.lang.reflect.Method)[pri:0, instance:hybridFramework.uiautomation.loginpage.TC001@6e1567f1]" name="beformethod" is-config="true" duration-ms="3" started-at="2017-11-09T21:29:58Z" finished-at="2017-11-09T21:29:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void hybridFramework.uiautomation.loginpage.TC001.logintosite(java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beformethod -->
+        <test-method status="SKIP" signature="logintosite(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:hybridFramework.uiautomation.loginpage.TC001@6e1567f1]" name="logintosite" duration-ms="2" started-at="2017-11-09T21:29:58Z" data-provider="Logindetails" finished-at="2017-11-09T21:29:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[megha08jan@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[n]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[mark it as no run]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: mark it as no run
+	at hybridFramework.uiautomation.loginpage.TC001.logintosite(TC001.java:44)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintosite -->
+        <test-method status="PASS" signature="aftermethod(org.testng.ITestResult)[pri:0, instance:hybridFramework.uiautomation.loginpage.TC001@6e1567f1]" name="aftermethod" is-config="true" duration-ms="0" started-at="2017-11-09T21:29:58Z" finished-at="2017-11-09T21:29:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=logintosite status=SKIP method=TC001.logintosite(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:hybridFramework.uiautomation.loginpage.TC001@6e1567f1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="endtest()[pri:0, instance:hybridFramework.uiautomation.loginpage.TC001@6e1567f1]" name="endtest" is-config="true" duration-ms="9587" started-at="2017-11-09T21:29:58Z" finished-at="2017-11-09T21:30:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endtest -->
+      </class> <!-- hybridFramework.uiautomation.loginpage.TC001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

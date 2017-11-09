@@ -4,6 +4,7 @@ import java.io.IOException;
 
 import org.apache.log4j.Logger;
 import org.testng.Assert;
+import org.testng.SkipException;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
@@ -38,15 +39,18 @@ public class TC001 extends Testbase{
 	}
 
 	@Test(dataProvider="Logindetails")
-	public void logintosite(String emailid, String pwd) throws Exception{
+	public void logintosite(String emailid, String pwd,String runmode) throws Exception{
+		if(runmode.equalsIgnoreCase("n")){
+		throw new SkipException("mark it as no run");
+		}
 		try {
-			homepage = new Homepage();
+			homepage = new Homepage(driver);
 			loginpage = homepage.clickonsignin();	
 			loginpage.logintowebsite(emailid, pwd);
 			Thread.sleep(200);
-			//Assert.assertTrue(homepage.msgdisplay(), "Welcome to your account. Here you can manage all of your personal information and orders.");
+		//Assert.assertTrue(homepage.msgdisplay(), "Welcome to your account. Here you can manage all of your personal information and orders.");
 			
-			Assert.assertEquals(homepage.verifydisplayedtext(), "Welcome to your account. Here you can manage all of your personal information and orders.");
+		Assert.assertEquals(homepage.verifydisplayedtext(), "Welcome to your account. Here you can manage all of your personal information and orders.");
 			
 			homepage.clickonsignout();
 		} catch (Exception e) {

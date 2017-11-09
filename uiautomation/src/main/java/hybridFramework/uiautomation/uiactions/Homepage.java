@@ -16,57 +16,53 @@ public class Homepage extends Testbase {
 
 
 	public static final Logger log = Logger.getLogger(Homepage.class.getName());
-
+	WebDriver driver;
 	Mouseaction mouseaction;
+	
+	public Homepage(WebDriver driver){
+		this.driver = driver;
 
-
-	@BeforeClass
-	public void init() throws Exception{
-
-		setup();
 	}
-
-
 
 	public LoginPage clickonsignin() throws Exception{
 
 		log.info("in homepage");
-		getlocator("signin").click();
-		return new LoginPage();
+		getlocator(driver,"signin").click();
+		return new LoginPage(driver);
 	}
 
 
 	public void clickonsignout() throws Exception{
 
-		getlocator("signout").click();
+		getlocator(driver,"signout").click();
 
 	}
 
 
 	public Productpage womenproductselection() throws Exception{
-		new Mouseaction().actionmovetoelementwithoutclick(getlocator("clickonwomen"));
+		new Mouseaction(driver).actionmovetoelementwithoutclick(getlocator(driver,"clickonwomen"));
 		Thread.sleep(200);
-		new Mouseaction().actionmovetoelementwithclick(getlocator("cliclontshirts"));
+		new Mouseaction(driver).actionmovetoelementwithclick(getlocator(driver,"cliclontshirts"));
 
-		return new Productpage();
+		return new Productpage(driver);
 	}
 
 	public Productpage womenproducts() throws Exception{
 
-		new Mouseaction().actionmovetoelementwithclick(getlocator("clickonwomen"));
+		new Mouseaction(driver).actionmovetoelementwithclick(getlocator(driver,"clickonwomen"));
 
-		return new Productpage();
+		return new Productpage(driver);
 	}
 
 	public boolean msgdisplay() throws Exception{
 
-		return new AssertverifyBlock().assertelementdisplayed("msgdisplay");
+		return new AssertverifyBlock(driver).assertelementdisplayed("msgdisplay");
 
 	}
 
 	public String verifydisplayedtext() throws Exception{
 
-		return new AssertverifyBlock().verifytext("msgdisplay");
+		return new AssertverifyBlock(driver).verifytext("msgdisplay");
 
 	}
 

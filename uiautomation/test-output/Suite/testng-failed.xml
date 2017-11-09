@@ -1,17 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
-  <listeners>
-    <listener class-name="hybridFramework.uiautomation.customlistener.Listener"/>
-  </listeners>
-  <test name="Test(failed)">
+<suite thread-count="3" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="classes">
+  <test name="Test(failed)" parallel="classes">
     <classes>
+      <class name="hybridFramework.uiautomation.productpage.TC001_SelectProduct">
+        <methods>
+          <include name="init"/>
+          <include name="beformethod"/>
+          <include name="productdetails" invocation-numbers="1 2 3 4 5 6"/>
+          <include name="endtest"/>
+          <include name="aftermethod"/>
+          <include name="logintowebsite" invocation-numbers="1"/>
+        </methods>
+      </class> <!-- hybridFramework.uiautomation.productpage.TC001_SelectProduct -->
       <class name="hybridFramework.uiautomation.registrationpage.TC003">
         <methods>
           <include name="init"/>
-          <include name="registrationPage"/>
+          <include name="beformethod"/>
+          <include name="endtest"/>
+          <include name="aftermethod"/>
         </methods>
       </class> <!-- hybridFramework.uiautomation.registrationpage.TC003 -->
+      <class name="hybridFramework.uiautomation.loginpage.TC001">
+        <methods>
+          <include name="beformethod"/>
+          <include name="endtest"/>
+          <include name="aftermethod"/>
+          <include name="logintosite" invocation-numbers="1"/>
+          <include name="init"/>
+        </methods>
+      </class> <!-- hybridFramework.uiautomation.loginpage.TC001 -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

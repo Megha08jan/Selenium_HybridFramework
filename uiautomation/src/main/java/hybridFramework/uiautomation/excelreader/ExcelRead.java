@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 
 public class ExcelRead {
 
-	@Test
+	
 	public String[][] readdata(String path,String sheetname) throws IOException{
 
 		File file = new File(path);
@@ -34,8 +34,9 @@ public class ExcelRead {
 				cell = row.getCell(j);
 
 				dataset[i-1][j]= cell.getStringCellValue();
-				System.out.println(i-1 + " "+ j);	
-				System.out.println(dataset[i-1][j]);
+				System.out.print(i-1 + " "+ j);	
+				System.out.println(" ");
+				System.out.print(dataset[i-1][j]);
 			}
 
 

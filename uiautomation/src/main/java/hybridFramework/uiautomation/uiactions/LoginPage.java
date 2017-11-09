@@ -1,6 +1,7 @@
 package hybridFramework.uiautomation.uiactions;
 
 import org.apache.log4j.Logger;
+import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 
 import hybridFramework.uiautomation.assertverfication.AssertverifyBlock;
@@ -11,19 +12,24 @@ public class LoginPage extends Testbase {
 
 	public static final Logger log = Logger.getLogger(LoginPage.class.getName());
 
-Mouseaction mouseaction;
-AssertverifyBlock assertverifyBlock;
-	public RegistrationPage clickoncreateaccount() throws Exception{
+	AssertverifyBlock assertverifyBlock;
+	WebDriver driver;
+	public LoginPage(WebDriver driver){
+
+		this.driver = driver;
+	}
+
+	public RegistrationPage clickoncreateaccount(String emailid) throws Exception{
 
 		try {
 			log.info("in loginpage");
-			scrollwebpage(0,200);
-			getlocator("emailcreate").sendKeys("megha@gmail.com");
-			mouseaction = new Mouseaction();
-			mouseaction.randomclick();
+			scrollwebpage(driver,0,200);
+			getlocator(driver,"emailcreate").sendKeys(emailid);
+			new Mouseaction(driver).randomclick();
 			Thread.sleep(1000);
-			getlocator("createaccount").click();
-			return new RegistrationPage();
+			getlocator(driver,"createaccount").click();
+			Assert.assertTrue(true);
+			return new RegistrationPage(driver);
 
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
@@ -41,21 +47,20 @@ AssertverifyBlock assertverifyBlock;
 		log.info("in loginpage");
 		log.info(emailid + " and "+ pwd);
 		log.info("in loginpage");
-		scrollwebpage(0,200);
-		getlocator("emailaddress").sendKeys(emailid);
-		getlocator("password").sendKeys(pwd);
-		mouseaction = new Mouseaction();
-		mouseaction.randomclick();
+		scrollwebpage(driver,0,200);
+		getlocator(driver,"emailaddress").sendKeys(emailid);
+		getlocator(driver,"password").sendKeys(pwd);
+		new Mouseaction(driver).randomclick();
 		Thread.sleep(1000);
-		getlocator("clickonsignin").click();
-		
-		
-	}
-	
-	
-	
+		getlocator(driver,"clickonsignin").click();
+
 
 	}
+
+
+
+
+}
 
 
 

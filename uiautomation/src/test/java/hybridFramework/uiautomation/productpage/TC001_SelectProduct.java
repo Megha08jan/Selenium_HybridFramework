@@ -48,7 +48,7 @@ public class TC001_SelectProduct extends Testbase {
 		}
 
 		try {
-			homepage = new Homepage();
+			homepage = new Homepage(driver);
 			loginpage = homepage.clickonsignin();	
 			loginpage.logintowebsite(emailid, pwd);
 		}
@@ -63,11 +63,11 @@ public class TC001_SelectProduct extends Testbase {
 
 
 	}
-	String[][] dataset = null;
+
 	@DataProvider(name="products")
 	public Object[][] loaddata1() throws IOException{
 		sheetname = "Productsdetails";
-		dataset = getdata(path,sheetname);
+	String[][]	dataset = getdata(path,sheetname);
 
 		return dataset;
 

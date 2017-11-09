@@ -11,12 +11,13 @@ import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
+import org.openqa.selenium.WebDriver;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
 import org.testng.Reporter;
 
-public class Listener implements ITestListener {
+public class Listener extends Testbase implements ITestListener {
 
 	public static final Logger log = Logger.getLogger(Listener.class.getName());
 
@@ -24,7 +25,8 @@ public class Listener implements ITestListener {
 
 	SimpleDateFormat dateformat =  new SimpleDateFormat("dd_MM_yyyy_hh_mm_ss");
 	String methodname;
-
+	
+	
 
 	public void onTestStart(ITestResult result) {
 		// TODO Auto-generated method stub
@@ -40,7 +42,7 @@ public class Listener implements ITestListener {
 		
 		if(result.isSuccess()){
 			try {
-				File srcfile= ((TakesScreenshot)Testbase.driver).getScreenshotAs(OutputType.FILE);
+				File srcfile= ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
 				String imagelocation = new File(System.getProperty("user.dir")).getAbsolutePath() + "\\src\\main\\java\\hybridFramework\\uiautomation\\";
 				File destfile = new File(imagelocation + "\\passed screenshots\\"+methodname+ "_"+dateformat.format(calender.getTime())+".png");	
 
@@ -66,7 +68,7 @@ public class Listener implements ITestListener {
 		
 		if(!result.isSuccess()){
 			try {
-				File srcfile= ((TakesScreenshot)Testbase.driver).getScreenshotAs(OutputType.FILE);
+				File srcfile= ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
 				String imagelocation = new File(System.getProperty("user.dir")).getAbsolutePath() + "\\src\\main\\java\\hybridFramework\\uiautomation\\";
 				File destfile = new File(imagelocation + "\\failed screenshots\\"+methodname+ "_"+dateformat.format(calender.getTime())+".png");	
 
